@@ -1,0 +1,695 @@
+,Card,Link,Freq,Type,Title,Weakness
+0, Darkness Energy,http://limitlesstcg.com/cards/SSH/D/,100,Energy - Basic,Darkness Energy,
+1, Fighting Energy,http://limitlesstcg.com/cards/SSH/F/,1,Energy - Basic,Fighting Energy,
+2, Fire Energy,http://limitlesstcg.com/cards/SSH/R/,610,Energy - Basic,Fire Energy,
+3, Grass Energy,http://limitlesstcg.com/cards/SSH/G/,54,Energy - Basic,Grass Energy,
+4, Lightning Energy,http://limitlesstcg.com/cards/SSH/L/,328,Energy - Basic,Lightning Energy,
+5, Metal Energy,http://limitlesstcg.com/cards/SSH/M/,386,Energy - Basic,Metal Energy,
+6, Psychic Energy,http://limitlesstcg.com/cards/SSH/P/,247,Energy - Basic,Psychic Energy,
+7, Water Energy,http://limitlesstcg.com/cards/SSH/W/,13,Energy - Basic,Water Energy,
+8,Abomasnow (CRE-10),http://limitlesstcg.com/cards/CRE/10/,2,Pokemon - Stage 1 - Evolves from Snover,Abomasnow - Grass - 140 HP,Weakness: FireResistance: NoneRetreat: 3
+9,Absol (TEU-88),http://limitlesstcg.com/cards/TEU/88/,76,Pokemon - Basic,Absol - Darkness - 100 HP,Weakness: FightingResistance: PsychicRetreat: 1
+10,Accelgor (FST-14),http://limitlesstcg.com/cards/FST/14/,1,Pokemon - Stage 1 - Evolves from Shelmet,Accelgor - Grass - 90 HP,Weakness: FireResistance: NoneRetreat: 1
+11,Adventurer’s Discovery,http://limitlesstcg.com/cards/FST/224/,3,Trainer - Supporter,Adventurer’s Discovery,
+12,Aegislash V (VIV-126),http://limitlesstcg.com/cards/VIV/126/,182,Pokemon - Basic,Aegislash V - Metal - 210 HP,Weakness: FireResistance: GrassRetreat: 3
+13,Aerodactyl (TEU-130),http://limitlesstcg.com/cards/TEU/130/,2,Pokemon - Stage 1,Aerodactyl - Colorless - 130 HP,Weakness: LightningResistance: FightingRetreat: 1
+14,Aerodactyl-GX (UNM-106),http://limitlesstcg.com/cards/UNM/106/,1,Pokemon - Stage 1,Aerodactyl-GX - Fighting - 210 HP,Weakness: GrassResistance: NoneRetreat: 0
+15,Aipom (SMP-SM244),http://limitlesstcg.com/cards/SMP/SM244/,25,Pokemon - Basic,Aipom - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+16,Air Balloon,http://limitlesstcg.com/cards/SSH/156/,2352,Trainer - Item - Tool,Air Balloon,
+17,Alakazam V (SSP-83),http://limitlesstcg.com/cards/SSP/83/,2,Pokemon - Basic,Alakazam V - Psychic - 190 HP,Weakness: DarknessResistance: FightingRetreat: 1
+18,Alcremie V (CPA-22),http://limitlesstcg.com/cards/CPA/22/,178,Pokemon - Basic,Alcremie V - Psychic - 170 HP,Weakness: MetalResistance: NoneRetreat: 2
+19,Alcremie VMAX (CPA-23),http://limitlesstcg.com/cards/CPA/23/,178,Pokemon - VMAX,Alcremie VMAX - Psychic - 310 HP,Weakness: MetalResistance: NoneRetreat: 3
+20,Allister,http://limitlesstcg.com/cards/VIV/146/,1,Trainer - Supporter,Allister,
+21,Alolan Grimer (UNM-127),http://limitlesstcg.com/cards/UNM/127/,16,Pokemon - Basic,Alolan Grimer - Darkness - 80 HP,Weakness: FightingResistance: PsychicRetreat: 2
+22,Alolan Marowak-GX (SMP-SM187),http://limitlesstcg.com/cards/SMP/SM187/,1,Pokemon - Stage 1 - Evolves from Cubone,Alolan Marowak-GX - Fire - 200 HP,Weakness: WaterResistance: NoneRetreat: 2
+23,Alolan Muk (TEU-84),http://limitlesstcg.com/cards/TEU/84/,16,Pokemon - Stage 1 - Evolves from Alolan Grimer,Alolan Muk - Darkness - 120 HP,Weakness: FightingResistance: PsychicRetreat: 3
+24,Alolan Sandshrew (CEC-137),http://limitlesstcg.com/cards/CEC/137/,1,Pokemon - Basic,Alolan Sandshrew - Metal - 60 HP,Weakness: FireResistance: PsychicRetreat: 1
+25,Alolan Sandslash-GX (SMP-SM236),http://limitlesstcg.com/cards/SMP/SM236/,2,Pokemon - Stage 1 - Evolves from Alolan Sandshrew,Alolan Sandslash-GX - Water - 200 HP,Weakness: MetalResistance: NoneRetreat: 2
+26,Altaria (CPA-49),http://limitlesstcg.com/cards/CPA/49/,38,Pokemon - Stage 1 - Evolves from Swablu,Altaria - Colorless - 110 HP,Weakness: LightningResistance: FightingRetreat: 1
+27,Altaria (EVS-106),http://limitlesstcg.com/cards/EVS/106/,4,Pokemon - Stage 1 - Evolves from Swablu,Altaria - Dragon - 90 HP,Weakness: NoneResistance: NoneRetreat: 0
+28,Arceus & Dialga & Palkia-GX (CEC-156),http://limitlesstcg.com/cards/CEC/156/,450,Pokemon - Basic,Arceus & Dialga & Palkia-GX - Dragon - 280 HP,Weakness: FairyResistance: NoneRetreat: 3
+29,Aromatic Grass Energy,http://limitlesstcg.com/cards/VIV/162/,70,Energy - Special,Aromatic Grass Energy,
+30,Arrokuda (RCL-52),http://limitlesstcg.com/cards/RCL/52/,2,Pokemon - Basic,Arrokuda - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+31,Arrokuda (VIV-41),http://limitlesstcg.com/cards/VIV/41/,2,Pokemon - Basic,Arrokuda - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+32,Articuno (TEU-32),http://limitlesstcg.com/cards/TEU/32/,23,Pokemon - Basic,Articuno - Water - 110 HP,Weakness: LightningResistance: FightingRetreat: 2
+33,Aurora Energy,http://limitlesstcg.com/cards/SSH/186/,387,Energy - Special,Aurora Energy,
+34,Avery,http://limitlesstcg.com/cards/CRE/130/,21,Trainer - Supporter,Avery,
+35,Ball Guy,http://limitlesstcg.com/cards/SHF/57/,2,Trainer - Supporter,Ball Guy,
+36,Banette (VIV-68),http://limitlesstcg.com/cards/VIV/68/,1,Pokemon - Stage 1 - Evolves from Shuppet,Banette - Psychic - 90 HP,Weakness: DarknessResistance: FightingRetreat: 1
+37,Barraskewda (VIV-42),http://limitlesstcg.com/cards/VIV/42/,4,Pokemon - Stage 1 - Evolves from Arrokuda,Barraskewda - Water - 120 HP,Weakness: LightningResistance: NoneRetreat: 1
+38,Basculin (FST-70),http://limitlesstcg.com/cards/FST/70/,4,Pokemon - Basic,Basculin - Water - 80 HP,Weakness: LightningResistance: NoneRetreat: 1
+39,Battle VIP Pass,http://limitlesstcg.com/cards/FST/225/,58,Trainer - Item,Battle VIP Pass,
+40,Beast Bringer,http://limitlesstcg.com/cards/UNB/164/,10,Trainer - Item - Tool,Beast Bringer,
+41,Bede,http://limitlesstcg.com/cards/CPA/50/,1,Trainer - Supporter,Bede,
+42,Beedrill (CRE-3),http://limitlesstcg.com/cards/CRE/3/,1,Pokemon - Stage 2 - Evolves from Kakuna,Beedrill - Grass - 130 HP,Weakness: FireResistance: NoneRetreat: 1
+43,Beedrill (VIV-3),http://limitlesstcg.com/cards/VIV/3/,1,Pokemon - Stage 2 - Evolves from Kakuna,Beedrill - Grass - 130 HP,Weakness: FireResistance: NoneRetreat: 0
+44,Beheeyem (UNM-91),http://limitlesstcg.com/cards/UNM/91/,1,Pokemon - Stage 1 - Evolves from Elgyem,Beheeyem - Psychic - 80 HP,Weakness: PsychicResistance: NoneRetreat: 1
+45,Big Charm,http://limitlesstcg.com/cards/SSH/158/,639,Trainer - Item - Tool,Big Charm,
+46,Big Parasol,http://limitlesstcg.com/cards/DAA/157/,86,Trainer - Item - Tool,Big Parasol,
+47,Bill's Analysis,http://limitlesstcg.com/cards/HIF/51/,16,Trainer - Supporter,Bill's Analysis,
+48,Bird Keeper,http://limitlesstcg.com/cards/DAA/159/,328,Trainer - Supporter,Bird Keeper,
+49,Blacephalon (CEC-104),http://limitlesstcg.com/cards/CEC/104/,8,Pokemon - Basic,Blacephalon - Psychic - 110 HP,Weakness: DarknessResistance: FightingRetreat: 2
+50,Blacephalon (UNB-32),http://limitlesstcg.com/cards/UNB/32/,231,Pokemon - Basic,Blacephalon - Fire - 120 HP,Weakness: WaterResistance: NoneRetreat: 2
+51,Black Market Prism Star,http://limitlesstcg.com/cards/TEU/134/,12,Trainer - Stadium,Black Market ♢,
+52,Blastoise & Piplup-GX (CEC-38),http://limitlesstcg.com/cards/CEC/38/,1,Pokemon - Basic,Blastoise & Piplup-GX - Water - 270 HP,Weakness: GrassResistance: NoneRetreat: 3
+53,Blastoise V (SSP-101),http://limitlesstcg.com/cards/SSP/101/,1,Pokemon - Basic,Blastoise V - Water - 220 HP,Weakness: LightningResistance: NoneRetreat: 3
+54,Blastoise VMAX (SSP-103),http://limitlesstcg.com/cards/SSP/103/,1,Pokemon - VMAX,Blastoise VMAX - Water - 330 HP,Weakness: LightningResistance: NoneRetreat: 3
+55,Blastoise-GX (UNB-35),http://limitlesstcg.com/cards/UNB/35/,2,Pokemon - Stage 2 - Evolves from Wartortle,Blastoise-GX - Water - 240 HP,Weakness: GrassResistance: NoneRetreat: 3
+56,Blaziken V (CRE-20),http://limitlesstcg.com/cards/CRE/20/,66,Pokemon - Basic,Blaziken V - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 2
+57,Blaziken VMAX (CRE-21),http://limitlesstcg.com/cards/CRE/21/,66,Pokemon - VMAX,Blaziken VMAX - Fire - 320 HP,Weakness: WaterResistance: NoneRetreat: 2
+58,Blissey V (CRE-119),http://limitlesstcg.com/cards/CRE/119/,11,Pokemon - Basic,Blissey V - Colorless - 250 HP,Weakness: FightingResistance: NoneRetreat: 4
+59,Blue's Tactics,http://limitlesstcg.com/cards/UNM/188/,4,Trainer - Supporter,Blue's Tactics,
+60,Boltund (BST-53),http://limitlesstcg.com/cards/BST/53/,1,Pokemon - Stage 1 - Evolves from Yamper,Boltund - Lightning - 130 HP,Weakness: FightingResistance: NoneRetreat: 1
+61,Boltund V (RCL-67),http://limitlesstcg.com/cards/RCL/67/,369,Pokemon - Basic,Boltund V - Lightning - 200 HP,Weakness: FightingResistance: NoneRetreat: 2
+62,Boss's Orders,http://limitlesstcg.com/cards/RCL/154/,1230,Trainer - Supporter,Boss's Orders,
+63,Boss's Orders,http://limitlesstcg.com/cards/SHF/58/,3083,Trainer - Supporter,Boss's Orders,
+64,Brawly,http://limitlesstcg.com/cards/CRE/131/,3,Trainer - Supporter,Brawly,
+65,Brock's Grit,http://limitlesstcg.com/cards/HIF/53/,7,Trainer - Supporter,Brock's Grit,
+66,Bronzong (BST-102),http://limitlesstcg.com/cards/BST/102/,35,Pokemon - Stage 1 - Evolves from Bronzor,Bronzong - Metal - 110 HP,Weakness: FireResistance: GrassRetreat: 3
+67,Bronzong (TEU-101),http://limitlesstcg.com/cards/TEU/101/,3,Pokemon - Stage 1 - Evolves from Bronzor,Bronzong - Metal - 130 HP,Weakness: FireResistance: PsychicRetreat: 3
+68,Bronzor (BST-101),http://limitlesstcg.com/cards/BST/101/,8,Pokemon - Basic,Bronzor - Metal - 60 HP,Weakness: FireResistance: GrassRetreat: 1
+69,Bronzor (RCL-129),http://limitlesstcg.com/cards/RCL/129/,1,Pokemon - Basic,Bronzor - Metal - 60 HP,Weakness: FireResistance: GrassRetreat: 1
+70,Bronzor (TEU-100),http://limitlesstcg.com/cards/TEU/100/,29,Pokemon - Basic,Bronzor - Metal - 50 HP,Weakness: FireResistance: PsychicRetreat: 1
+71,Bruno,http://limitlesstcg.com/cards/BST/121/,44,Trainer - Supporter,Bruno,
+72,Buff Padding,http://limitlesstcg.com/cards/TEU/136/,25,Trainer - Item - Tool,Buff Padding,
+73,Bunnelby (DAA-150),http://limitlesstcg.com/cards/DAA/150/,76,Pokemon - Basic,Bunnelby - Colorless - 40 HP,Weakness: FightingResistance: NoneRetreat: 1
+74,Butterfree V (DAA-1),http://limitlesstcg.com/cards/DAA/1/,1,Pokemon - Basic,Butterfree V - Grass - 190 HP,Weakness: FireResistance: NoneRetreat: 1
+75,Butterfree VMAX (DAA-2),http://limitlesstcg.com/cards/DAA/2/,1,Pokemon - VMAX,Butterfree VMAX - Grass - 300 HP,Weakness: FireResistance: NoneRetreat: 0
+76,Caitlin,http://limitlesstcg.com/cards/CRE/132/,2,Trainer - Supporter,Caitlin,
+77,Camping Gear,http://limitlesstcg.com/cards/BST/122/,1,Trainer - Item,Camping Gear,
+78,Capacious Bucket,http://limitlesstcg.com/cards/RCL/156/,326,Trainer - Item,Capacious Bucket,
+79,Cape of Toughness,http://limitlesstcg.com/cards/DAA/160/,393,Trainer - Item - Tool,Cape of Toughness,
+80,Capture Energy,http://limitlesstcg.com/cards/RCL/171/,1049,Energy - Special,Capture Energy,
+81,Celebi & Venusaur-GX (TEU-1),http://limitlesstcg.com/cards/TEU/1/,1,Pokemon - Basic,Celebi & Venusaur-GX - Grass - 270 HP,Weakness: FireResistance: NoneRetreat: 4
+82,Celebi (SHF-3),http://limitlesstcg.com/cards/SHF/3/,6,Pokemon - Basic,Celebi - Grass - 70 HP,Weakness: FireResistance: NoneRetreat: 1
+83,Centiskorch V (DAA-33),http://limitlesstcg.com/cards/DAA/33/,196,Pokemon - Basic,Centiskorch V - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 3
+84,Centiskorch VMAX (DAA-34),http://limitlesstcg.com/cards/DAA/34/,196,Pokemon - VMAX,Centiskorch VMAX - Fire - 320 HP,Weakness: WaterResistance: NoneRetreat: 3
+85,Channeler,http://limitlesstcg.com/cards/UNM/190/,1,Trainer - Supporter,Channeler,
+86,Chaotic Swell,http://limitlesstcg.com/cards/CEC/187/,1221,Trainer - Stadium,Chaotic Swell,
+87,Charizard & Braixen-GX (CEC-22),http://limitlesstcg.com/cards/CEC/22/,6,Pokemon - Basic,Charizard & Braixen-GX - Fire - 270 HP,Weakness: WaterResistance: NoneRetreat: 3
+88,Charizard (VIV-25),http://limitlesstcg.com/cards/VIV/25/,1,Pokemon - Stage 2 - Evolves from Charmeleon,Charizard - Fire - 170 HP,Weakness: WaterResistance: NoneRetreat: 3
+89,Charizard-GX (HIF-9),http://limitlesstcg.com/cards/HIF/9/,82,Pokemon - Stage 2 - Evolves from Charmeleon,Charizard-GX - Fire - 250 HP,Weakness: WaterResistance: NoneRetreat: 3
+90,Charmander (VIV-23),http://limitlesstcg.com/cards/VIV/23/,1,Pokemon - Basic,Charmander - Fire - 70 HP,Weakness: WaterResistance: NoneRetreat: 1
+91,Charmeleon (HIF-8),http://limitlesstcg.com/cards/HIF/8/,1,Pokemon - Stage 1 - Evolves from Charmander,Charmeleon - Fire - 100 HP,Weakness: WaterResistance: NoneRetreat: 1
+92,Chatot (RCL-142),http://limitlesstcg.com/cards/RCL/142/,13,Pokemon - Basic,Chatot - Colorless - 70 HP,Weakness: LightningResistance: FightingRetreat: 1
+93,Cherish Ball,http://limitlesstcg.com/cards/UNM/191/,1146,Trainer - Item,Cherish Ball,
+94,Cheryl,http://limitlesstcg.com/cards/BST/123/,247,Trainer - Supporter,Cheryl,
+95,Chili & Cilan & Cress,http://limitlesstcg.com/cards/FST/227/,1,Trainer - Supporter,Chili & Cilan & Cress,
+96,Chip-Chip Ice Axe,http://limitlesstcg.com/cards/UNB/165/,2,Trainer - Item,Chip-Chip Ice Axe,
+97,Cinccino (SSH-147),http://limitlesstcg.com/cards/SSH/147/,58,Pokemon - Stage 1 - Evolves from Minccino,Cinccino - Colorless - 90 HP,Weakness: FightingResistance: NoneRetreat: 1
+98,Cinderace (SSH-34),http://limitlesstcg.com/cards/SSH/34/,1,Pokemon - Stage 2 - Evolves from Raboot,Cinderace - Fire - 170 HP,Weakness: WaterResistance: NoneRetreat: 1
+99,Cinderace V (RCL-35),http://limitlesstcg.com/cards/RCL/35/,6,Pokemon - Basic,Cinderace V - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 2
+100,Cinderace V (SHF-18),http://limitlesstcg.com/cards/SHF/18/,5,Pokemon - Basic,Cinderace V - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 2
+101,Cinderace VMAX (RCL-36),http://limitlesstcg.com/cards/RCL/36/,6,Pokemon - VMAX,Cinderace VMAX - Fire - 320 HP,Weakness: WaterResistance: NoneRetreat: 2
+102,Cinderace VMAX (SHF-19),http://limitlesstcg.com/cards/SHF/19/,5,Pokemon - VMAX,Cinderace VMAX - Fire - 320 HP,Weakness: WaterResistance: NoneRetreat: 2
+103,Circhester Bath,http://limitlesstcg.com/cards/VIV/150/,7,Trainer - Stadium,Circhester Bath,
+104,Clamperl (FST-65),http://limitlesstcg.com/cards/FST/65/,1,Pokemon - Basic,Clamperl - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 2
+105,Clay,http://limitlesstcg.com/cards/CEC/188/,4,Trainer - Supporter,Clay,
+106,Clefable (RCL-75),http://limitlesstcg.com/cards/RCL/75/,1,Pokemon - Stage 1 - Evolves from Clefairy,Clefable - Psychic - 110 HP,Weakness: MetalResistance: NoneRetreat: 2
+107,Clefairy (VIV-63),http://limitlesstcg.com/cards/VIV/63/,2,Pokemon - Basic,Clefairy - Psychic - 60 HP,Weakness: MetalResistance: NoneRetreat: 1
+108,Coach Trainer,http://limitlesstcg.com/cards/UNM/192/,1,Trainer - Supporter,Coach Trainer,
+109,Coalossal V (VIV-98),http://limitlesstcg.com/cards/VIV/98/,32,Pokemon - Basic,Coalossal V - Fighting - 220 HP,Weakness: GrassResistance: NoneRetreat: 4
+110,Coalossal VMAX (VIV-99),http://limitlesstcg.com/cards/VIV/99/,32,Pokemon - VMAX,Coalossal VMAX - Fighting - 330 HP,Weakness: GrassResistance: NoneRetreat: 4
+111,Coating Metal Energy,http://limitlesstcg.com/cards/VIV/163/,315,Energy - Special,Coating Metal Energy,
+112,Cobalion-GX (TEU-106),http://limitlesstcg.com/cards/TEU/106/,27,Pokemon - Basic,Cobalion-GX - Metal - 170 HP,Weakness: FireResistance: PsychicRetreat: 1
+113,Copycat,http://limitlesstcg.com/cards/EVS/143/,3,Trainer - Supporter,Copycat,
+114,Corviknight V (BST-109),http://limitlesstcg.com/cards/BST/109/,7,Pokemon - Basic,Corviknight V - Metal - 210 HP,Weakness: FireResistance: GrassRetreat: 1
+115,Corviknight VMAX (BST-110),http://limitlesstcg.com/cards/BST/110/,7,Pokemon - VMAX,Corviknight VMAX - Metal - 320 HP,Weakness: FireResistance: GrassRetreat: 0
+116,Cottonee (UNM-143),http://limitlesstcg.com/cards/UNM/143/,6,Pokemon - Basic,Cottonee - Fairy - 60 HP,Weakness: MetalResistance: DarknessRetreat: 1
+117,Cottonee (VIV-75),http://limitlesstcg.com/cards/VIV/75/,1,Pokemon - Basic,Cottonee - Psychic - 60 HP,Weakness: MetalResistance: NoneRetreat: 1
+118,Crabominable (UNB-105),http://limitlesstcg.com/cards/UNB/105/,1,Pokemon - Stage 1 - Evolves from Crabrawler,Crabominable - Fighting - 140 HP,Weakness: PsychicResistance: NoneRetreat: 4
+119,Crabominable V (FST-76),http://limitlesstcg.com/cards/FST/76/,1,Pokemon - Basic,Crabominable V - Water - 220 HP,Weakness: MetalResistance: NoneRetreat: 4
+120,Crabrawler (CEC-121),http://limitlesstcg.com/cards/CEC/121/,1,Pokemon - Basic,Crabrawler - Fighting - 80 HP,Weakness: PsychicResistance: NoneRetreat: 2
+121,Cram-o-matic,http://limitlesstcg.com/cards/FST/229/,39,Trainer - Item,Cram-o-matic,
+122,Cramorant V (SHF-54),http://limitlesstcg.com/cards/SHF/54/,175,Pokemon - Basic,Cramorant V - Colorless - 200 HP,Weakness: LightningResistance: FightingRetreat: 1
+123,Cramorant V (SSH-155),http://limitlesstcg.com/cards/SSH/155/,182,Pokemon - Basic,Cramorant V - Colorless - 200 HP,Weakness: LightningResistance: FightingRetreat: 1
+124,Cramorant VMAX (SHF-55),http://limitlesstcg.com/cards/SHF/55/,1,Pokemon - VMAX,Cramorant VMAX - Colorless - 320 HP,Weakness: LightningResistance: FightingRetreat: 2
+125,Cresselia (CRE-64),http://limitlesstcg.com/cards/CRE/64/,70,Pokemon - Basic,Cresselia - Psychic - 120 HP,Weakness: DarknessResistance: FightingRetreat: 1
+126,Croagunk (SSH-123),http://limitlesstcg.com/cards/SSH/123/,82,Pokemon - Basic,Croagunk - Darkness - 70 HP,Weakness: FightingResistance: NoneRetreat: 1
+127,Crobat V (DAA-104),http://limitlesstcg.com/cards/DAA/104/,1019,Pokemon - Basic,Crobat V - Darkness - 180 HP,Weakness: FightingResistance: NoneRetreat: 1
+128,Crobat V (SHF-44),http://limitlesstcg.com/cards/SHF/44/,1772,Pokemon - Basic,Crobat V - Darkness - 180 HP,Weakness: FightingResistance: NoneRetreat: 1
+129,Crobat VMAX (SHF-45),http://limitlesstcg.com/cards/SHF/45/,2,Pokemon - VMAX,Crobat VMAX - Darkness - 300 HP,Weakness: FightingResistance: NoneRetreat: 1
+130,Cross Switcher,http://limitlesstcg.com/cards/FST/230/,28,Trainer - Item,Cross Switcher,
+131,Crushing Hammer,http://limitlesstcg.com/cards/SSH/159/,889,Trainer - Item,Crushing Hammer,
+132,Cryogonal (UNM-46),http://limitlesstcg.com/cards/UNM/46/,10,Pokemon - Basic,Cryogonal - Water - 90 HP,Weakness: MetalResistance: NoneRetreat: 1
+133,Crystal Cave,http://limitlesstcg.com/cards/EVS/144/,102,Trainer - Stadium,Crystal Cave,
+134,Cynthia & Caitlin,http://limitlesstcg.com/cards/CEC/189/,611,Trainer - Supporter,Cynthia & Caitlin,
+135,Dan,http://limitlesstcg.com/cards/RCL/158/,1,Trainer - Supporter,Dan,
+136,Dangerous Drill,http://limitlesstcg.com/cards/TEU/138/,60,Trainer - Item,Dangerous Drill,
+137,Dark City,http://limitlesstcg.com/cards/UNM/193/,93,Trainer - Stadium,Dark City,
+138,Darkness Energy,http://limitlesstcg.com/cards/SSH/D/,690,Energy - Basic,Darkness Energy,
+139,Darkrai (DAA-105),http://limitlesstcg.com/cards/DAA/105/,19,Pokemon - Basic,Darkrai - Darkness - 120 HP,Weakness: GrassResistance: NoneRetreat: 2
+140,Dartrix (CEC-19),http://limitlesstcg.com/cards/CEC/19/,1,Pokemon - Stage 1 - Evolves from Rowlet,Dartrix - Grass - 80 HP,Weakness: FireResistance: NoneRetreat: 1
+141,Dartrix (DAA-12),http://limitlesstcg.com/cards/DAA/12/,34,Pokemon - Stage 1 - Evolves from Rowlet,Dartrix - Grass - 80 HP,Weakness: FireResistance: NoneRetreat: 1
+142,Dartrix (SHF-7),http://limitlesstcg.com/cards/SHF/7/,36,Pokemon - Stage 1 - Evolves from Rowlet,Dartrix - Grass - 80 HP,Weakness: FireResistance: NoneRetreat: 1
+143,Decidueye (DAA-13),http://limitlesstcg.com/cards/DAA/13/,34,Pokemon - Stage 2 - Evolves from Dartrix,Decidueye - Grass - 140 HP,Weakness: FireResistance: NoneRetreat: 2
+144,Decidueye (SHF-8),http://limitlesstcg.com/cards/SHF/8/,66,Pokemon - Stage 2 - Evolves from Dartrix,Decidueye - Grass - 140 HP,Weakness: FireResistance: NoneRetreat: 2
+145,Dedenne (DAA-78),http://limitlesstcg.com/cards/DAA/78/,76,Pokemon - Basic,Dedenne - Psychic - 70 HP,Weakness: MetalResistance: NoneRetreat: 1
+146,Dedenne-GX (UNB-57),http://limitlesstcg.com/cards/UNB/57/,2342,Pokemon - Basic,Dedenne-GX - Lightning - 160 HP,Weakness: FightingResistance: MetalRetreat: 1
+147,Deino (DAA-108),http://limitlesstcg.com/cards/DAA/108/,1,Pokemon - Basic,Deino - Darkness - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+148,Deoxys (FST-120),http://limitlesstcg.com/cards/FST/120/,1,Pokemon - Basic,Deoxys - Psychic - 120 HP,Weakness: DarknessResistance: FightingRetreat: 1
+149,Devolution Spray Z,http://limitlesstcg.com/cards/UNB/166/,5,Trainer - Item,Devolution Spray Z,
+150,Dewgong (UNB-45),http://limitlesstcg.com/cards/UNB/45/,1,Pokemon - Stage 1 - Evolves from Seel,Dewgong - Water - 120 HP,Weakness: MetalResistance: NoneRetreat: 2
+151,Dhelmise (CEC-98),http://limitlesstcg.com/cards/CEC/98/,6,Pokemon - Basic,Dhelmise - Psychic - 130 HP,Weakness: DarknessResistance: FightingRetreat: 3
+152,Dhelmise V (SHF-9),http://limitlesstcg.com/cards/SHF/9/,21,Pokemon - Basic,Dhelmise V - Grass - 220 HP,Weakness: FireResistance: NoneRetreat: 2
+153,Dhelmise VMAX (SHF-10),http://limitlesstcg.com/cards/SHF/10/,21,Pokemon - VMAX,Dhelmise VMAX - Grass - 330 HP,Weakness: FireResistance: NoneRetreat: 3
+154,Dialga (VIV-121),http://limitlesstcg.com/cards/VIV/121/,2,Pokemon - Basic,Dialga - Metal - 130 HP,Weakness: FireResistance: GrassRetreat: 2
+155,Ditto (DET-17),http://limitlesstcg.com/cards/DET/17/,1,Pokemon - Basic,Ditto - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+156,Ditto V (SHF-50),http://limitlesstcg.com/cards/SHF/50/,28,Pokemon - Basic,Ditto V - Colorless - 170 HP,Weakness: FightingResistance: NoneRetreat: 2
+157,Donphan (VIV-87),http://limitlesstcg.com/cards/VIV/87/,2,Pokemon - Stage 1 - Evolves from Phanpy,Donphan - Fighting - 150 HP,Weakness: GrassResistance: NoneRetreat: 4
+158,Dracozolt V (EVS-58),http://limitlesstcg.com/cards/EVS/58/,2,Pokemon - Basic,Dracozolt V - Lightning - 220 HP,Weakness: FightingResistance: NoneRetreat: 3
+159,Dracozolt VMAX (EVS-59),http://limitlesstcg.com/cards/EVS/59/,2,Pokemon - VMAX,Dracozolt VMAX - Lightning - 330 HP,Weakness: FightingResistance: NoneRetreat: 3
+160,Dragapult (RCL-91),http://limitlesstcg.com/cards/RCL/91/,5,Pokemon - Stage 2 - Evolves from Drakloak,Dragapult - Psychic - 150 HP,Weakness: DarknessResistance: FightingRetreat: 0
+161,Dragapult V (RCL-92),http://limitlesstcg.com/cards/RCL/92/,159,Pokemon - Basic,Dragapult V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 1
+162,Dragapult VMAX (RCL-93),http://limitlesstcg.com/cards/RCL/93/,157,Pokemon - VMAX,Dragapult VMAX - Psychic - 320 HP,Weakness: DarknessResistance: FightingRetreat: 1
+163,Dragonite-GX (UNM-152),http://limitlesstcg.com/cards/UNM/152/,51,Pokemon - Stage 2 - Evolves from Dragonair,Dragonite-GX - Dragon - 250 HP,Weakness: FairyResistance: NoneRetreat: 2
+164,Drakloak (RCL-90),http://limitlesstcg.com/cards/RCL/90/,5,Pokemon - Stage 1 - Evolves from Dreepy,Drakloak - Psychic - 90 HP,Weakness: DarknessResistance: FightingRetreat: 1
+165,Draw Energy,http://limitlesstcg.com/cards/CEC/209/,7,Energy - Special,Draw Energy,
+166,Dream Ball,http://limitlesstcg.com/cards/EVS/146/,7,Trainer - Item,Dream Ball,
+167,Dreepy (RCL-89),http://limitlesstcg.com/cards/RCL/89/,5,Pokemon - Basic,Dreepy - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+168,Drilbur (CEC-114),http://limitlesstcg.com/cards/CEC/114/,16,Pokemon - Basic,Drilbur - Fighting - 70 HP,Weakness: GrassResistance: NoneRetreat: 2
+169,Drilbur (UNM-118),http://limitlesstcg.com/cards/UNM/118/,1,Pokemon - Basic,Drilbur - Fighting - 70 HP,Weakness: GrassResistance: NoneRetreat: 2
+170,Drizzile (SSH-56),http://limitlesstcg.com/cards/SSH/56/,780,Pokemon - Stage 1 - Evolves from Sobble,Drizzile - Water - 90 HP,Weakness: LightningResistance: NoneRetreat: 1
+171,Dubwool V (RCL-153),http://limitlesstcg.com/cards/RCL/153/,86,Pokemon - Basic,Dubwool V - Colorless - 210 HP,Weakness: FightingResistance: NoneRetreat: 2
+172,Ducklett (CEC-59),http://limitlesstcg.com/cards/CEC/59/,2,Pokemon - Basic,Ducklett - Water - 60 HP,Weakness: LightningResistance: FightingRetreat: 1
+173,Ducklett (DAA-148),http://limitlesstcg.com/cards/DAA/148/,3,Pokemon - Basic,Ducklett - Colorless - 50 HP,Weakness: LightningResistance: FightingRetreat: 1
+174,Dunsparce (FST-207),http://limitlesstcg.com/cards/FST/207/,1,Pokemon - Basic,Dunsparce - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+175,Duraludon (RCL-138),http://limitlesstcg.com/cards/RCL/138/,9,Pokemon - Basic,Duraludon - Metal - 130 HP,Weakness: FireResistance: GrassRetreat: 2
+176,Duraludon V (CPA-47),http://limitlesstcg.com/cards/CPA/47/,1,Pokemon - Basic,Duraludon V - Metal - 220 HP,Weakness: FireResistance: GrassRetreat: 3
+177,Duraludon V (EVS-122),http://limitlesstcg.com/cards/EVS/122/,1,Pokemon - Basic,Duraludon V - Dragon - 220 HP,Weakness: NoneResistance: NoneRetreat: 2
+178,Duraludon VMAX (EVS-123),http://limitlesstcg.com/cards/EVS/123/,1,Pokemon - VMAX,Duraludon VMAX - Dragon - 330 HP,Weakness: NoneResistance: NoneRetreat: 3
+179,Dusknoir (VIV-71),http://limitlesstcg.com/cards/VIV/71/,12,Pokemon - Stage 2 - Evolves from Dusclops,Dusknoir - Psychic - 150 HP,Weakness: DarknessResistance: FightingRetreat: 2
+180,Duskull (CEC-83),http://limitlesstcg.com/cards/CEC/83/,1,Pokemon - Basic,Duskull - Psychic - 40 HP,Weakness: DarknessResistance: FightingRetreat: 1
+181,Duskull (VIV-69),http://limitlesstcg.com/cards/VIV/69/,6,Pokemon - Basic,Duskull - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+182,Dyna Tree Hill,http://limitlesstcg.com/cards/CRE/135/,1,Trainer - Stadium,Dyna Tree Hill,
+183,Echoing Horn,http://limitlesstcg.com/cards/CRE/136/,94,Trainer - Item,Echoing Horn,
+184,Eldegoss V (CPA-5),http://limitlesstcg.com/cards/CPA/5/,1334,Pokemon - Basic,Eldegoss V - Grass - 180 HP,Weakness: FireResistance: NoneRetreat: 1
+185,Electrocharger,http://limitlesstcg.com/cards/TEU/139/,1,Trainer - Item,Electrocharger,
+186,Electrode (VIV-46),http://limitlesstcg.com/cards/VIV/46/,3,Pokemon - Stage 1 - Evolves from Voltorb,Electrode - Lightning - 90 HP,Weakness: FightingResistance: NoneRetreat: 1
+187,Electromagnetic Radar,http://limitlesstcg.com/cards/UNB/169/,349,Trainer - Item,Electromagnetic Radar,
+188,Elemental Badge,http://limitlesstcg.com/cards/EVS/147/,84,Trainer - Item - Tool,Elemental Badge,
+189,Elesa’s Sparkle,http://limitlesstcg.com/cards/FST/233/,54,Trainer - Supporter,Elesa’s Sparkle,
+190,Elgyem (UNM-90),http://limitlesstcg.com/cards/UNM/90/,1,Pokemon - Basic,Elgyem - Psychic - 60 HP,Weakness: PsychicResistance: NoneRetreat: 1
+191,Empoleon V (BST-40),http://limitlesstcg.com/cards/BST/40/,35,Pokemon - Basic,Empoleon V - Water - 210 HP,Weakness: LightningResistance: NoneRetreat: 2
+192,Energy Recycler,http://limitlesstcg.com/cards/BST/124/,40,Trainer - Item,Energy Recycler,
+193,Energy Retrieval,http://limitlesstcg.com/cards/SSH/160/,108,Trainer - Item,Energy Retrieval,
+194,Energy Search,http://limitlesstcg.com/cards/SSH/161/,250,Trainer - Item,Energy Search,
+195,Energy Spinner,http://limitlesstcg.com/cards/UNB/170/,545,Trainer - Item,Energy Spinner,
+196,Energy Switch,http://limitlesstcg.com/cards/SSH/162/,718,Trainer - Item,Energy Switch,
+197,Entei (CEC-28),http://limitlesstcg.com/cards/CEC/28/,1,Pokemon - Basic,Entei - Fire - 130 HP,Weakness: WaterResistance: NoneRetreat: 2
+198,Erika's Hospitality,http://limitlesstcg.com/cards/HIF/56/,133,Trainer - Supporter,Erika's Hospitality,
+199,Escape Rope,http://limitlesstcg.com/cards/BST/125/,891,Trainer - Item,Escape Rope,
+200,Espeon & Deoxys-GX (UNM-72),http://limitlesstcg.com/cards/UNM/72/,8,Pokemon - Basic,Espeon & Deoxys-GX - Psychic - 260 HP,Weakness: PsychicResistance: NoneRetreat: 2
+201,Espurr (UNB-79),http://limitlesstcg.com/cards/UNB/79/,6,Pokemon - Basic,Espurr - Psychic - 60 HP,Weakness: PsychicResistance: NoneRetreat: 1
+202,Eternatus V (DAA-116),http://limitlesstcg.com/cards/DAA/116/,426,Pokemon - Basic,Eternatus V - Darkness - 220 HP,Weakness: FightingResistance: NoneRetreat: 2
+203,Eternatus VMAX (DAA-117),http://limitlesstcg.com/cards/DAA/117/,417,Pokemon - VMAX,Eternatus VMAX - Darkness - 340 HP,Weakness: FightingResistance: NoneRetreat: 3
+204,Evolution Incense,http://limitlesstcg.com/cards/SSH/163/,1426,Trainer - Item,Evolution Incense,
+205,Excadrill (CEC-115),http://limitlesstcg.com/cards/CEC/115/,15,Pokemon - Stage 1 - Evolves from Drilbur,Excadrill - Fighting - 140 HP,Weakness: GrassResistance: NoneRetreat: 4
+206,Excadrill (UNM-119),http://limitlesstcg.com/cards/UNM/119/,2,Pokemon - Stage 1 - Evolves from Drilbur,Excadrill - Fighting - 120 HP,Weakness: GrassResistance: NoneRetreat: 2
+207,Exp. Share,http://limitlesstcg.com/cards/BST/126/,42,Trainer - Item - Tool,Exp. Share,
+208,Fairy Energy,http://limitlesstcg.com/cards/TEU/Y/,1,Energy - Basic,Fairy Energy,
+209,Falinks (BST-83),http://limitlesstcg.com/cards/BST/83/,1,Pokemon - Basic,Falinks - Fighting - 110 HP,Weakness: PsychicResistance: NoneRetreat: 2
+210,Familiar Bell,http://limitlesstcg.com/cards/DAA/161/,2,Trainer - Item,Familiar Bell,
+211,Fan of Waves,http://limitlesstcg.com/cards/BST/127/,285,Trainer - Item,Fan of Waves,
+212,Fighting Energy,http://limitlesstcg.com/cards/SSH/F/,419,Energy - Basic,Fighting Energy,
+213,Fire Crystal,http://limitlesstcg.com/cards/UNB/173/,534,Trainer - Item,Fire Crystal,
+214,Fire Energy,http://limitlesstcg.com/cards/SSH/R/,63,Energy - Basic,Fire Energy,
+215,Flaaffy (EVS-55),http://limitlesstcg.com/cards/EVS/55/,4,Pokemon - Stage 1 - Evolves from Mareep,Flaaffy - Lightning - 90 HP,Weakness: FightingResistance: NoneRetreat: 2
+216,Flannery,http://limitlesstcg.com/cards/CRE/139/,2,Trainer - Supporter,Flannery,
+217,Flapple (EVS-120),http://limitlesstcg.com/cards/EVS/120/,1,Pokemon - Stage 1 - Evolves from Applin,Flapple - Dragon - 80 HP,Weakness: NoneResistance: NoneRetreat: 1
+218,Flareon-GX (SMP-SM171),http://limitlesstcg.com/cards/SMP/SM171/,6,Pokemon - Stage 1 - Evolves from Eevee,Flareon-GX - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 2
+219,Flygon (DAA-91),http://limitlesstcg.com/cards/DAA/91/,5,Pokemon - Stage 2 - Evolves from Vibrava,Flygon - Fighting - 150 HP,Weakness: GrassResistance: NoneRetreat: 1
+220,Flygon-GX (CEC-110),http://limitlesstcg.com/cards/CEC/110/,6,Pokemon - Stage 2 - Evolves from Vibrava,Flygon-GX - Fighting - 240 HP,Weakness: GrassResistance: NoneRetreat: 2
+221,Fog Crystal,http://limitlesstcg.com/cards/CRE/140/,443,Trainer - Item,Fog Crystal,
+222,Froslass (CRE-36),http://limitlesstcg.com/cards/CRE/36/,11,Pokemon - Stage 1 - Evolves from Snorunt,Froslass - Water - 90 HP,Weakness: MetalResistance: NoneRetreat: 1
+223,Frosmoth (SHF-30),http://limitlesstcg.com/cards/SHF/30/,13,Pokemon - Stage 1 - Evolves from Snom,Frosmoth - Water - 90 HP,Weakness: MetalResistance: NoneRetreat: 2
+224,Frosmoth (SSH-64),http://limitlesstcg.com/cards/SSH/64/,15,Pokemon - Stage 1 - Evolves from Snom,Frosmoth - Water - 90 HP,Weakness: MetalResistance: NoneRetreat: 2
+225,Full Heal,http://limitlesstcg.com/cards/CPA/51/,1,Trainer - Item,Full Heal,
+226,Fusion Strike Energy,http://limitlesstcg.com/cards/FST/244/,54,Energy - Special,Fusion Strike Energy,
+227,Galar Mine,http://limitlesstcg.com/cards/RCL/160/,94,Trainer - Stadium,Galar Mine,
+228,Galarian Articuno (EVS-63),http://limitlesstcg.com/cards/EVS/63/,32,Pokemon - Basic,Galarian Articuno - Psychic - 120 HP,Weakness: DarknessResistance: FightingRetreat: 2
+229,Galarian Articuno V (CRE-58),http://limitlesstcg.com/cards/CRE/58/,4,Pokemon - Basic,Galarian Articuno V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 2
+230,Galarian Corsola (RCL-78),http://limitlesstcg.com/cards/RCL/78/,1,Pokemon - Basic,Galarian Corsola - Psychic - 80 HP,Weakness: DarknessResistance: FightingRetreat: 2
+231,Galarian Cursola (RCL-79),http://limitlesstcg.com/cards/RCL/79/,1,Pokemon - Stage 1 - Evolves from Galarian Corsola,Galarian Cursola - Psychic - 100 HP,Weakness: DarknessResistance: FightingRetreat: 2
+232,Galarian Darmanitan V (VIV-36),http://limitlesstcg.com/cards/VIV/36/,1,Pokemon - Basic,Galarian Darmanitan V - Water - 220 HP,Weakness: MetalResistance: NoneRetreat: 2
+233,Galarian Darmanitan VMAX (VIV-37),http://limitlesstcg.com/cards/VIV/37/,1,Pokemon - VMAX,Galarian Darmanitan VMAX - Water - 320 HP,Weakness: MetalResistance: NoneRetreat: 3
+234,Galarian Linoone (CPA-36),http://limitlesstcg.com/cards/CPA/36/,1,Pokemon - Stage 1 - Evolves from Galarian Zigzagoon,Galarian Linoone - Darkness - 100 HP,Weakness: GrassResistance: NoneRetreat: 2
+235,Galarian Linoone (FST-160),http://limitlesstcg.com/cards/FST/160/,5,Pokemon - Stage 1 - Evolves from Galarian Zigzagoon,Galarian Linoone - Darkness - 90 HP,Weakness: GrassResistance: NoneRetreat: 1
+236,Galarian Meowth (RCL-126),http://limitlesstcg.com/cards/RCL/126/,10,Pokemon - Basic,Galarian Meowth - Metal - 60 HP,Weakness: FireResistance: GrassRetreat: 2
+237,Galarian Moltres (EVS-93),http://limitlesstcg.com/cards/EVS/93/,10,Pokemon - Basic,Galarian Moltres - Darkness - 120 HP,Weakness: GrassResistance: NoneRetreat: 2
+238,Galarian Moltres V (CRE-97),http://limitlesstcg.com/cards/CRE/97/,408,Pokemon - Basic,Galarian Moltres V - Darkness - 220 HP,Weakness: GrassResistance: NoneRetreat: 2
+239,Galarian Mr. Rime (DAA-36),http://limitlesstcg.com/cards/DAA/36/,76,Pokemon - Stage 1 - Evolves from Galarian Mr. Mime,Galarian Mr. Rime - Water - 120 HP,Weakness: MetalResistance: NoneRetreat: 2
+240,Galarian Obstagoon (CPA-37),http://limitlesstcg.com/cards/CPA/37/,2,Pokemon - Stage 2 - Evolves from Galarian Linoone,Galarian Obstagoon - Darkness - 170 HP,Weakness: GrassResistance: NoneRetreat: 2
+241,Galarian Obstagoon (FST-161),http://limitlesstcg.com/cards/FST/161/,6,Pokemon - Stage 2 - Evolves from Galarian Linoone,Galarian Obstagoon - Darkness - 170 HP,Weakness: GrassResistance: NoneRetreat: 2
+242,Galarian Obstagoon (SSH-119),http://limitlesstcg.com/cards/SSH/119/,42,Pokemon - Stage 2 - Evolves from Galarian Linoone,Galarian Obstagoon - Darkness - 160 HP,Weakness: GrassResistance: NoneRetreat: 2
+243,Galarian Perrserker (SSH-128),http://limitlesstcg.com/cards/SSH/128/,7,Pokemon - Stage 1 - Evolves from Galarian Meowth,Galarian Perrserker - Metal - 120 HP,Weakness: FireResistance: GrassRetreat: 2
+244,Galarian Rapidash V (CRE-168),http://limitlesstcg.com/cards/CRE/168/,17,Pokemon - Basic,Galarian Rapidash V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 1
+245,Galarian Rapidash V (SSP-111),http://limitlesstcg.com/cards/SSP/111/,50,Pokemon - Basic,Galarian Rapidash V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 1
+246,Galarian Runerigus (RCL-102),http://limitlesstcg.com/cards/RCL/102/,1,Pokemon - Stage 1 - Evolves from Galarian Yamask,Galarian Runerigus - Fighting - 100 HP,Weakness: GrassResistance: NoneRetreat: 2
+247,Galarian Sirfetch'd V (SSP-43),http://limitlesstcg.com/cards/SSP/43/,3,Pokemon - Basic,Galarian Sirfetch'd V - Fighting - 210 HP,Weakness: PsychicResistance: NoneRetreat: 2
+248,Galarian Sirfetch'd V (VIV-174),http://limitlesstcg.com/cards/VIV/174/,69,Pokemon - Basic,Galarian Sirfetch'd V - Fighting - 210 HP,Weakness: PsychicResistance: NoneRetreat: 2
+249,Galarian Slowbro V (DAA-99),http://limitlesstcg.com/cards/DAA/99/,84,Pokemon - Basic,Galarian Slowbro V - Darkness - 210 HP,Weakness: FightingResistance: NoneRetreat: 3
+250,Galarian Stunfisk (SSH-132),http://limitlesstcg.com/cards/SSH/132/,25,Pokemon - Basic,Galarian Stunfisk - Metal - 120 HP,Weakness: FireResistance: GrassRetreat: 2
+251,Galarian Stunfisk V (DAA-128),http://limitlesstcg.com/cards/DAA/128/,8,Pokemon - Basic,Galarian Stunfisk V - Metal - 200 HP,Weakness: FireResistance: GrassRetreat: 4
+252,Galarian Weezing (SHF-42),http://limitlesstcg.com/cards/SHF/42/,36,Pokemon - Stage 1 - Evolves from Koffing,Galarian Weezing - Darkness - 130 HP,Weakness: FightingResistance: NoneRetreat: 3
+253,Galarian Yamask (RCL-101),http://limitlesstcg.com/cards/RCL/101/,1,Pokemon - Basic,Galarian Yamask - Fighting - 70 HP,Weakness: GrassResistance: NoneRetreat: 2
+254,Galarian Zapdos V (CRE-80),http://limitlesstcg.com/cards/CRE/80/,198,Pokemon - Basic,Galarian Zapdos V - Fighting - 200 HP,Weakness: PsychicResistance: NoneRetreat: 1
+255,Galarian Zigzagoon (SSH-117),http://limitlesstcg.com/cards/SSH/117/,1120,Pokemon - Basic,Galarian Zigzagoon - Darkness - 70 HP,Weakness: GrassResistance: NoneRetreat: 1
+256,Garbodor (RCL-118),http://limitlesstcg.com/cards/RCL/118/,1,Pokemon - Stage 1 - Evolves from Trubbish,Garbodor - Darkness - 120 HP,Weakness: FightingResistance: NoneRetreat: 2
+257,Garchomp & Giratina-GX (UNM-146),http://limitlesstcg.com/cards/UNM/146/,47,Pokemon - Basic,Garchomp & Giratina-GX - Dragon - 270 HP,Weakness: FairyResistance: NoneRetreat: 3
+258,Gardevoir & Sylveon-GX (UNB-130),http://limitlesstcg.com/cards/UNB/130/,1,Pokemon - Basic,Gardevoir & Sylveon-GX - Fairy - 260 HP,Weakness: MetalResistance: DarknessRetreat: 2
+259,Genesect V (FST-185),http://limitlesstcg.com/cards/FST/185/,58,Pokemon - Basic,Genesect V - Metal - 190 HP,Weakness: FireResistance: GrassRetreat: 2
+260,Gengar & Mimikyu-GX (TEU-53),http://limitlesstcg.com/cards/TEU/53/,317,Pokemon - Basic,Gengar & Mimikyu-GX - Psychic - 240 HP,Weakness: DarknessResistance: FightingRetreat: 2
+261,Gengar V (FST-156),http://limitlesstcg.com/cards/FST/156/,10,Pokemon - Basic,Gengar V - Darkness - 210 HP,Weakness: FightingResistance: NoneRetreat: 2
+262,Gengar VMAX (FST-157),http://limitlesstcg.com/cards/FST/157/,10,Pokemon - VMAX,Gengar VMAX - Darkness - 320 HP,Weakness: FightingResistance: NoneRetreat: 3
+263,Giant Bomb,http://limitlesstcg.com/cards/UNM/196/,2,Trainer - Item - Tool,Giant Bomb,
+264,Giant Hearth,http://limitlesstcg.com/cards/UNM/197/,641,Trainer - Stadium,Giant Hearth,
+265,Giovanni's Exile,http://limitlesstcg.com/cards/HIF/57/,80,Trainer - Supporter,Giovanni's Exile,
+266,Giratina (UNM-86),http://limitlesstcg.com/cards/UNM/86/,301,Pokemon - Basic,Giratina - Psychic - 130 HP,Weakness: DarknessResistance: FightingRetreat: 1
+267,Glaceon V (EVS-40),http://limitlesstcg.com/cards/EVS/40/,1,Pokemon - Basic,Glaceon V - Water - 210 HP,Weakness: MetalResistance: NoneRetreat: 2
+268,Glaceon VMAX (EVS-41),http://limitlesstcg.com/cards/EVS/41/,1,Pokemon - VMAX,Glaceon VMAX - Water - 310 HP,Weakness: MetalResistance: NoneRetreat: 2
+269,Glimwood Tangle,http://limitlesstcg.com/cards/DAA/162/,3,Trainer - Stadium,Glimwood Tangle,
+270,Goldeen (SSH-45),http://limitlesstcg.com/cards/SSH/45/,1,Pokemon - Basic,Goldeen - Water - 70 HP,Weakness: LightningResistance: NoneRetreat: 1
+271,Golisopod (DAA-18),http://limitlesstcg.com/cards/DAA/18/,3,Pokemon - Stage 1 - Evolves from Wimpod,Golisopod - Grass - 130 HP,Weakness: FireResistance: NoneRetreat: 2
+272,Golurk V (EVS-70),http://limitlesstcg.com/cards/EVS/70/,2,Pokemon - Basic,Golurk V - Psychic - 220 HP,Weakness: DarknessResistance: FightingRetreat: 3
+273,Gorebyss (FST-67),http://limitlesstcg.com/cards/FST/67/,1,Pokemon - Stage 1 - Evolves from Clamperl,Gorebyss - Water - 110 HP,Weakness: LightningResistance: NoneRetreat: 1
+274,Grass Energy,http://limitlesstcg.com/cards/SSH/G/,248,Energy - Basic,Grass Energy,
+275,Great Ball,http://limitlesstcg.com/cards/CPA/52/,711,Trainer - Item,Great Ball,
+276,Great Catcher,http://limitlesstcg.com/cards/CEC/192/,870,Trainer - Item,Great Catcher,
+277,Great Potion,http://limitlesstcg.com/cards/UNM/198/,14,Trainer - Item,Great Potion,
+278,Greedent (DAA-153),http://limitlesstcg.com/cards/DAA/153/,1,Pokemon - Stage 1 - Evolves from Skwovet,Greedent - Colorless - 120 HP,Weakness: FightingResistance: NoneRetreat: 1
+279,Greedent (RCL-152),http://limitlesstcg.com/cards/RCL/152/,1,Pokemon - Stage 1 - Evolves from Skwovet,Greedent - Colorless - 120 HP,Weakness: FightingResistance: NoneRetreat: 1
+280,Green's Exploration,http://limitlesstcg.com/cards/UNB/175/,37,Trainer - Supporter,Green's Exploration,
+281,Greninja & Zoroark-GX (UNB-107),http://limitlesstcg.com/cards/UNB/107/,77,Pokemon - Basic,Greninja & Zoroark-GX - Darkness - 250 HP,Weakness: FightingResistance: PsychicRetreat: 2
+282,Greninja-GX (SMP-SM197),http://limitlesstcg.com/cards/SMP/SM197/,63,Pokemon - Stage 2 - Evolves from Frogadier,Greninja-GX - Water - 230 HP,Weakness: GrassResistance: NoneRetreat: 1
+283,Grimsley,http://limitlesstcg.com/cards/UNM/199/,4,Trainer - Supporter,Grimsley,
+284,Grookey (SHF-11),http://limitlesstcg.com/cards/SHF/11/,12,Pokemon - Basic,Grookey - Grass - 60 HP,Weakness: FireResistance: NoneRetreat: 1
+285,Grookey (SSH-11),http://limitlesstcg.com/cards/SSH/11/,96,Pokemon - Basic,Grookey - Grass - 70 HP,Weakness: FireResistance: NoneRetreat: 1
+286,Grookey (SSP-70),http://limitlesstcg.com/cards/SSP/70/,1,Pokemon - Basic,Grookey - Grass - 60 HP,Weakness: FireResistance: NoneRetreat: 1
+287,Guzma & Hala,http://limitlesstcg.com/cards/CEC/193/,473,Trainer - Supporter,Guzma & Hala,
+288,Guzzlord (CEC-136),http://limitlesstcg.com/cards/CEC/136/,9,Pokemon - Basic,Guzzlord - Darkness - 150 HP,Weakness: FightingResistance: PsychicRetreat: 4
+289,Hapu,http://limitlesstcg.com/cards/UNM/200/,21,Trainer - Supporter,Hapu,
+290,Heat Fire Energy,http://limitlesstcg.com/cards/DAA/174/,63,Energy - Special,Heat Fire Energy,
+291,Heatmor (BST-26),http://limitlesstcg.com/cards/BST/26/,3,Pokemon - Basic,Heatmor - Fire - 120 HP,Weakness: WaterResistance: NoneRetreat: 2
+292,Heatran-GX (UNM-25),http://limitlesstcg.com/cards/UNM/25/,330,Pokemon - Basic,Heatran-GX - Fire - 190 HP,Weakness: WaterResistance: NoneRetreat: 3
+293,Heracross (UNM-107),http://limitlesstcg.com/cards/UNM/107/,4,Pokemon - Basic,Heracross - Fighting - 100 HP,Weakness: PsychicResistance: NoneRetreat: 1
+294,Hero's Medal,http://limitlesstcg.com/cards/VIV/152/,2,Trainer - Item - Tool,Hero's Medal,
+295,Hiding Darkness Energy,http://limitlesstcg.com/cards/DAA/175/,231,Energy - Special,Hiding Darkness Energy,
+296,Hoopa (DAA-111),http://limitlesstcg.com/cards/DAA/111/,157,Pokemon - Basic,Hoopa - Darkness - 120 HP,Weakness: GrassResistance: NoneRetreat: 2
+297,Hoopa (UNM-140),http://limitlesstcg.com/cards/UNM/140/,97,Pokemon - Basic,Hoopa - Darkness - 130 HP,Weakness: FightingResistance: PsychicRetreat: 2
+298,Hoopa V (SSP-176),http://limitlesstcg.com/cards/SSP/176/,5,Pokemon - Basic,Hoopa V - Darkness - 220 HP,Weakness: GrassResistance: NoneRetreat: 2
+299,Hoopa-GX (TEU-96),http://limitlesstcg.com/cards/TEU/96/,2,Pokemon - Basic,Hoopa-GX - Darkness - 190 HP,Weakness: FightingResistance: PsychicRetreat: 3
+300,Horror Psychic Energy,http://limitlesstcg.com/cards/RCL/172/,217,Energy - Special,Horror Psychic Energy,
+301,Houndoom (BST-96),http://limitlesstcg.com/cards/BST/96/,121,Pokemon - Stage 1 - Evolves from Houndour,Houndoom - Darkness - 130 HP,Weakness: GrassResistance: NoneRetreat: 2
+302,Houndour (BST-95),http://limitlesstcg.com/cards/BST/95/,121,Pokemon - Basic,Houndour - Darkness - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+303,Hydreigon (DAA-110),http://limitlesstcg.com/cards/DAA/110/,1,Pokemon - Stage 2 - Evolves from Zweilous,Hydreigon - Darkness - 160 HP,Weakness: GrassResistance: NoneRetreat: 3
+304,Hyper Potion,http://limitlesstcg.com/cards/CPA/54/,19,Trainer - Item,Hyper Potion,
+305,Ice Rider Calyrex V (CRE-45),http://limitlesstcg.com/cards/CRE/45/,192,Pokemon - Basic,Ice Rider Calyrex V - Water - 210 HP,Weakness: MetalResistance: NoneRetreat: 2
+306,Ice Rider Calyrex VMAX (CRE-46),http://limitlesstcg.com/cards/CRE/46/,192,Pokemon - VMAX,Ice Rider Calyrex VMAX - Water - 320 HP,Weakness: MetalResistance: NoneRetreat: 2
+307,Impact Energy,http://limitlesstcg.com/cards/CRE/157/,4,Energy - Special,Impact Energy,
+308,Incineroar V (CPA-8),http://limitlesstcg.com/cards/CPA/8/,2,Pokemon - Basic,Incineroar V - Fire - 220 HP,Weakness: WaterResistance: NoneRetreat: 3
+309,Incineroar-GX (TEU-97),http://limitlesstcg.com/cards/TEU/97/,157,Pokemon - Stage 2 - Evolves from Torracat,Incineroar-GX - Darkness - 250 HP,Weakness: FightingResistance: PsychicRetreat: 3
+310,Indeedee V (SHF-39),http://limitlesstcg.com/cards/SHF/39/,3,Pokemon - Basic,Indeedee V - Psychic - 180 HP,Weakness: DarknessResistance: FightingRetreat: 2
+311,Indeedee V (SSH-91),http://limitlesstcg.com/cards/SSH/91/,9,Pokemon - Basic,Indeedee V - Psychic - 180 HP,Weakness: DarknessResistance: FightingRetreat: 2
+312,Ingo & Emmet,http://limitlesstcg.com/cards/TEU/144/,1,Trainer - Supporter,Ingo & Emmet,
+313,Inkay (CPA-44),http://limitlesstcg.com/cards/CPA/44/,5,Pokemon - Basic,Inkay - Darkness - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+314,Inkay (CRE-69),http://limitlesstcg.com/cards/CRE/69/,17,Pokemon - Basic,Inkay - Psychic - 50 HP,Weakness: DarknessResistance: FightingRetreat: 1
+315,Inkay (UNB-118),http://limitlesstcg.com/cards/UNB/118/,1,Pokemon - Basic,Inkay - Darkness - 60 HP,Weakness: FightingResistance: PsychicRetreat: 1
+316,Inteleon (CRE-43),http://limitlesstcg.com/cards/CRE/43/,745,Pokemon - Stage 2 - Evolves from Drizzile,Inteleon - Water - 150 HP,Weakness: LightningResistance: NoneRetreat: 1
+317,Inteleon (SSH-58),http://limitlesstcg.com/cards/SSH/58/,727,Pokemon - Stage 2 - Evolves from Drizzile,Inteleon - Water - 160 HP,Weakness: LightningResistance: NoneRetreat: 1
+318,Inteleon V (FST-78),http://limitlesstcg.com/cards/FST/78/,7,Pokemon - Basic,Inteleon V - Water - 200 HP,Weakness: LightningResistance: NoneRetreat: 2
+319,Inteleon V (RCL-49),http://limitlesstcg.com/cards/RCL/49/,26,Pokemon - Basic,Inteleon V - Water - 200 HP,Weakness: LightningResistance: NoneRetreat: 2
+320,Inteleon VMAX (FST-79),http://limitlesstcg.com/cards/FST/79/,7,Pokemon - VMAX,Inteleon VMAX - Water - 320 HP,Weakness: LightningResistance: NoneRetreat: 2
+321,Inteleon VMAX (RCL-50),http://limitlesstcg.com/cards/RCL/50/,27,Pokemon - VMAX,Inteleon VMAX - Water - 320 HP,Weakness: LightningResistance: NoneRetreat: 2
+322,Island Challenge Amulet,http://limitlesstcg.com/cards/CEC/194/,14,Trainer - Item - Tool,Island Challenge Amulet,
+323,Jessie & James,http://limitlesstcg.com/cards/HIF/58/,7,Trainer - Supporter,Jessie & James,
+324,Jirachi (TEU-99),http://limitlesstcg.com/cards/TEU/99/,677,Pokemon - Basic,Jirachi - Metal - 70 HP,Weakness: FireResistance: PsychicRetreat: 1
+325,Jirachi (VIV-119),http://limitlesstcg.com/cards/VIV/119/,44,Pokemon - Basic,Jirachi - Metal - 70 HP,Weakness: FireResistance: GrassRetreat: 1
+326,Jirachi-GX (UNM-79),http://limitlesstcg.com/cards/UNM/79/,237,Pokemon - Basic,Jirachi-GX - Psychic - 160 HP,Weakness: PsychicResistance: NoneRetreat: 1
+327,Jolteon V (SSP-151),http://limitlesstcg.com/cards/SSP/151/,65,Pokemon - Basic,Jolteon V - Lightning - 190 HP,Weakness: FightingResistance: NoneRetreat: 0
+328,Jolteon V (SSP-183),http://limitlesstcg.com/cards/SSP/183/,19,Pokemon - Basic,Jolteon V - Lightning - 190 HP,Weakness: FightingResistance: NoneRetreat: 0
+329,Jolteon VMAX (EVS-51),http://limitlesstcg.com/cards/EVS/51/,84,Pokemon - VMAX,Jolteon VMAX - Lightning - 300 HP,Weakness: FightingResistance: NoneRetreat: 0
+330,Jolteon-GX (SMP-SM173),http://limitlesstcg.com/cards/SMP/SM173/,4,Pokemon - Stage 1 - Evolves from Eevee,Jolteon-GX - Lightning - 200 HP,Weakness: FightingResistance: MetalRetreat: 0
+331,Judge,http://limitlesstcg.com/cards/FST/235/,1,Trainer - Supporter,Judge,
+332,Judge Whistle,http://limitlesstcg.com/cards/TEU/146/,8,Trainer - Item,Judge Whistle,
+333,Jynx (UNM-76),http://limitlesstcg.com/cards/UNM/76/,32,Pokemon - Basic,Jynx - Psychic - 80 HP,Weakness: PsychicResistance: NoneRetreat: 1
+334,Kabu,http://limitlesstcg.com/cards/CPA/55/,16,Trainer - Supporter,Kabu,
+335,Kangaskhan (DAA-133),http://limitlesstcg.com/cards/DAA/133/,7,Pokemon - Basic,Kangaskhan - Colorless - 130 HP,Weakness: FightingResistance: NoneRetreat: 2
+336,Karate Belt,http://limitlesstcg.com/cards/UNM/201/,119,Trainer - Item - Tool,Karate Belt,
+337,Keldeo-GX (UNM-47),http://limitlesstcg.com/cards/UNM/47/,23,Pokemon - Basic,Keldeo-GX - Water - 170 HP,Weakness: GrassResistance: NoneRetreat: 2
+338,Klara,http://limitlesstcg.com/cards/CRE/145/,5,Trainer - Supporter,Klara,
+339,Koffing (CEC-76),http://limitlesstcg.com/cards/CEC/76/,7,Pokemon - Basic,Koffing - Psychic - 60 HP,Weakness: PsychicResistance: NoneRetreat: 1
+340,Koffing (SHF-41),http://limitlesstcg.com/cards/SHF/41/,35,Pokemon - Basic,Koffing - Darkness - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+341,Koffing (UNB-73),http://limitlesstcg.com/cards/UNB/73/,2,Pokemon - Basic,Koffing - Psychic - 70 HP,Weakness: PsychicResistance: NoneRetreat: 2
+342,Koga's Trap,http://limitlesstcg.com/cards/HIF/59/,3,Trainer - Supporter,Koga's Trap,
+343,Korrina's Focus,http://limitlesstcg.com/cards/BST/128/,107,Trainer - Supporter,Korrina's Focus,
+344,Kricketune V (BST-6),http://limitlesstcg.com/cards/BST/6/,100,Pokemon - Basic,Kricketune V - Grass - 180 HP,Weakness: FireResistance: NoneRetreat: 1
+345,Kubfu (CRE-93),http://limitlesstcg.com/cards/CRE/93/,1,Pokemon - Basic,Kubfu - Fighting - 70 HP,Weakness: PsychicResistance: NoneRetreat: 1
+346,Kyogre (CEC-53),http://limitlesstcg.com/cards/CEC/53/,1,Pokemon - Basic,Kyogre - Water - 130 HP,Weakness: GrassResistance: NoneRetreat: 3
+347,Kyogre (SHF-21),http://limitlesstcg.com/cards/SHF/21/,1,Pokemon - Basic,Kyogre - Water - 120 HP,Weakness: LightningResistance: NoneRetreat: 3
+348,Lana's Fishing Rod,http://limitlesstcg.com/cards/CEC/195/,11,Trainer - Item,Lana's Fishing Rod,
+349,Lapras (TEU-31),http://limitlesstcg.com/cards/TEU/31/,2,Pokemon - Basic,Lapras - Water - 130 HP,Weakness: MetalResistance: NoneRetreat: 3
+350,Lapras V (SSH-49),http://limitlesstcg.com/cards/SSH/49/,9,Pokemon - Basic,Lapras V - Water - 210 HP,Weakness: LightningResistance: NoneRetreat: 2
+351,Lapras VMAX (SSH-50),http://limitlesstcg.com/cards/SSH/50/,9,Pokemon - VMAX,Lapras VMAX - Water - 320 HP,Weakness: LightningResistance: NoneRetreat: 3
+352,Latias (FST-193),http://limitlesstcg.com/cards/FST/193/,34,Pokemon - Basic,Latias - Dragon - 120 HP,Weakness: NoneResistance: NoneRetreat: 1
+353,Latios-GX (UNM-78),http://limitlesstcg.com/cards/UNM/78/,35,Pokemon - Basic,Latios-GX - Psychic - 170 HP,Weakness: PsychicResistance: NoneRetreat: 0
+354,Leafeon V (EVS-7),http://limitlesstcg.com/cards/EVS/7/,83,Pokemon - Basic,Leafeon V - Grass - 200 HP,Weakness: FireResistance: NoneRetreat: 1
+355,Leafeon VMAX (EVS-8),http://limitlesstcg.com/cards/EVS/8/,60,Pokemon - VMAX,Leafeon VMAX - Grass - 310 HP,Weakness: FireResistance: NoneRetreat: 2
+356,Leon,http://limitlesstcg.com/cards/VIV/154/,121,Trainer - Supporter,Leon,
+357,Level Ball,http://limitlesstcg.com/cards/BST/129/,923,Trainer - Item,Level Ball,
+358,Lickilicky (UNM-162),http://limitlesstcg.com/cards/UNM/162/,1,Pokemon - Stage 1 - Evolves from Lickitung,Lickilicky - Colorless - 130 HP,Weakness: FightingResistance: NoneRetreat: 4
+359,Lickitung (UNM-161),http://limitlesstcg.com/cards/UNM/161/,1,Pokemon - Basic,Lickitung - Colorless - 100 HP,Weakness: FightingResistance: NoneRetreat: 4
+360,Liepard V (CRE-104),http://limitlesstcg.com/cards/CRE/104/,38,Pokemon - Basic,Liepard V - Darkness - 190 HP,Weakness: GrassResistance: NoneRetreat: 1
+361,Lightning Energy,http://limitlesstcg.com/cards/SSH/L/,158,Energy - Basic,Lightning Energy,
+362,Lillie's Full Force,http://limitlesstcg.com/cards/CEC/196/,2,Trainer - Supporter,Lillie's Full Force,
+363,Lillie's Poké Doll,http://limitlesstcg.com/cards/CEC/197/,435,Trainer - Item,Lillie's Poké Doll,
+364,Lillipup (CEC-174),http://limitlesstcg.com/cards/CEC/174/,1,Pokemon - Basic,Lillipup - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+365,Litten (UNB-27),http://limitlesstcg.com/cards/UNB/27/,5,Pokemon - Basic,Litten - Fire - 60 HP,Weakness: WaterResistance: NoneRetreat: 1
+366,Lombre (EVS-33),http://limitlesstcg.com/cards/EVS/33/,3,Pokemon - Stage 1 - Evolves from Lotad,Lombre - Water - 90 HP,Weakness: LightningResistance: NoneRetreat: 1
+367,Lombre (RCL-8),http://limitlesstcg.com/cards/RCL/8/,63,Pokemon - Stage 1 - Evolves from Lotad,Lombre - Grass - 90 HP,Weakness: FireResistance: NoneRetreat: 1
+368,Lotad (EVS-32),http://limitlesstcg.com/cards/EVS/32/,80,Pokemon - Basic,Lotad - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+369,Lt. Surge's Strategy,http://limitlesstcg.com/cards/HIF/60/,34,Trainer - Supporter,Lt. Surge's Strategy,
+370,Lucario & Melmetal-GX (UNB-120),http://limitlesstcg.com/cards/UNB/120/,354,Pokemon - Basic,Lucario & Melmetal-GX - Metal - 260 HP,Weakness: FireResistance: PsychicRetreat: 3
+371,Lucky Egg,http://limitlesstcg.com/cards/SSH/167/,14,Trainer - Item - Tool,Lucky Egg,
+372,Lucky Energy,http://limitlesstcg.com/cards/CRE/158/,9,Energy - Special,Lucky Energy,
+373,Lucky Ice Pop,http://limitlesstcg.com/cards/EVS/150/,8,Trainer - Item,Lucky Ice Pop,
+374,Ludicolo (EVS-34),http://limitlesstcg.com/cards/EVS/34/,80,Pokemon - Stage 2 - Evolves from Lombre,Ludicolo - Water - 140 HP,Weakness: LightningResistance: NoneRetreat: 2
+375,Lum Berry,http://limitlesstcg.com/cards/SSH/168/,2,Trainer - Item - Tool,Lum Berry,
+376,Lycanroc-GX (TEU-82),http://limitlesstcg.com/cards/TEU/82/,5,Pokemon - Stage 1 - Evolves from Rockruff,Lycanroc-GX - Fighting - 200 HP,Weakness: GrassResistance: NoneRetreat: 2
+377,Magnemite (CEC-68),http://limitlesstcg.com/cards/CEC/68/,4,Pokemon - Basic,Magnemite - Lightning - 60 HP,Weakness: FightingResistance: MetalRetreat: 1
+378,Magneton (CEC-69),http://limitlesstcg.com/cards/CEC/69/,4,Pokemon - Stage 1 - Evolves from Magnemite,Magneton - Lightning - 80 HP,Weakness: FightingResistance: MetalRetreat: 2
+379,Malamar (CRE-70),http://limitlesstcg.com/cards/CRE/70/,17,Pokemon - Stage 1 - Evolves from Inkay,Malamar - Psychic - 120 HP,Weakness: DarknessResistance: FightingRetreat: 3
+380,Malamar V (RCL-121),http://limitlesstcg.com/cards/RCL/121/,27,Pokemon - Basic,Malamar V - Darkness - 210 HP,Weakness: GrassResistance: NoneRetreat: 2
+381,Malamar VMAX (RCL-122),http://limitlesstcg.com/cards/RCL/122/,27,Pokemon - VMAX,Malamar VMAX - Darkness - 310 HP,Weakness: GrassResistance: NoneRetreat: 2
+382,Mallow & Lana,http://limitlesstcg.com/cards/CEC/198/,705,Trainer - Supporter,Mallow & Lana,
+383,Manaphy (SHF-24),http://limitlesstcg.com/cards/SHF/24/,5,Pokemon - Basic,Manaphy - Water - 70 HP,Weakness: LightningResistance: NoneRetreat: 1
+384,Mankey (BST-66),http://limitlesstcg.com/cards/BST/66/,1,Pokemon - Basic,Mankey - Fighting - 60 HP,Weakness: PsychicResistance: NoneRetreat: 1
+385,Mareep (CRE-47),http://limitlesstcg.com/cards/CRE/47/,1,Pokemon - Basic,Mareep - Lightning - 70 HP,Weakness: FightingResistance: NoneRetreat: 2
+386,Mareep (DAA-55),http://limitlesstcg.com/cards/DAA/55/,1,Pokemon - Basic,Mareep - Lightning - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+387,Mareep (EVS-54),http://limitlesstcg.com/cards/EVS/54/,2,Pokemon - Basic,Mareep - Lightning - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+388,Marnie,http://limitlesstcg.com/cards/CPA/56/,3327,Trainer - Supporter,Marnie,
+389,Marshadow & Machamp-GX (UNB-82),http://limitlesstcg.com/cards/UNB/82/,3,Pokemon - Basic,Marshadow & Machamp-GX - Fighting - 270 HP,Weakness: PsychicResistance: NoneRetreat: 3
+390,Marshadow (CEC-103),http://limitlesstcg.com/cards/CEC/103/,5,Pokemon - Basic,Marshadow - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+391,Marshadow (UNB-81),http://limitlesstcg.com/cards/UNB/81/,652,Pokemon - Basic,Marshadow - Psychic - 80 HP,Weakness: DarknessResistance: FightingRetreat: 1
+392,Martial Arts Dojo,http://limitlesstcg.com/cards/UNB/179/,126,Trainer - Stadium,Martial Arts Dojo,
+393,Mawile-GX (UNM-141),http://limitlesstcg.com/cards/UNM/141/,415,Pokemon - Basic,Mawile-GX - Metal - 170 HP,Weakness: FireResistance: PsychicRetreat: 1
+394,Medicham V (EVS-83),http://limitlesstcg.com/cards/EVS/83/,21,Pokemon - Basic,Medicham V - Fighting - 210 HP,Weakness: PsychicResistance: NoneRetreat: 2
+395,Mega Lopunny & Jigglypuff-GX (CEC-165),http://limitlesstcg.com/cards/CEC/165/,30,Pokemon - Basic,Mega Lopunny & Jigglypuff-GX - Colorless - 240 HP,Weakness: FightingResistance: NoneRetreat: 1
+396,Mega Sableye & Tyranitar-GX (UNM-126),http://limitlesstcg.com/cards/UNM/126/,70,Pokemon - Basic,Mega Sableye & Tyranitar-GX - Darkness - 280 HP,Weakness: FightingResistance: PsychicRetreat: 4
+397,Meloetta (FST-124),http://limitlesstcg.com/cards/FST/124/,19,Pokemon - Basic,Meloetta - Psychic - 90 HP,Weakness: DarknessResistance: FightingRetreat: 1
+398,Melony,http://limitlesstcg.com/cards/CRE/146/,303,Trainer - Supporter,Melony,
+399,Memory Capsule,http://limitlesstcg.com/cards/VIV/155/,2,Trainer - Item - Tool,Memory Capsule,
+400,Meowth (TEU-125),http://limitlesstcg.com/cards/TEU/125/,2,Pokemon - Basic,Meowth - Colorless - 70 HP,Weakness: FightingResistance: NoneRetreat: 1
+401,Meowth (UNB-147),http://limitlesstcg.com/cards/UNB/147/,14,Pokemon - Basic,Meowth - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+402,Metal Energy,http://limitlesstcg.com/cards/SSH/M/,505,Energy - Basic,Metal Energy,
+403,Metal Goggles,http://limitlesstcg.com/cards/TEU/148/,351,Trainer - Item - Tool,Metal Goggles,
+404,Metal Saucer,http://limitlesstcg.com/cards/SSH/170/,855,Trainer - Item,Metal Saucer,
+405,Mew (CEL-11),http://limitlesstcg.com/cards/CEL/11/,3,Pokemon - Basic,Mew - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+406,Mew (UNB-76),http://limitlesstcg.com/cards/UNB/76/,766,Pokemon - Basic,Mew - Psychic - 60 HP,Weakness: PsychicResistance: NoneRetreat: 1
+407,Mew V (FST-113),http://limitlesstcg.com/cards/FST/113/,57,Pokemon - Basic,Mew V - Psychic - 180 HP,Weakness: DarknessResistance: FightingRetreat: 0
+408,Mew VMAX (FST-114),http://limitlesstcg.com/cards/FST/114/,57,Pokemon - VMAX,Mew VMAX - Psychic - 310 HP,Weakness: DarknessResistance: FightingRetreat: 0
+409,Mewtwo & Mew-GX (UNM-71),http://limitlesstcg.com/cards/UNM/71/,697,Pokemon - Basic,Mewtwo & Mew-GX - Psychic - 270 HP,Weakness: PsychicResistance: NoneRetreat: 2
+410,Mewtwo (UNB-75),http://limitlesstcg.com/cards/UNB/75/,402,Pokemon - Basic,Mewtwo - Psychic - 120 HP,Weakness: PsychicResistance: NoneRetreat: 2
+411,Milo,http://limitlesstcg.com/cards/CPA/57/,4,Trainer - Supporter,Milo,
+412,Milotic V (RCL-43),http://limitlesstcg.com/cards/RCL/43/,19,Pokemon - Basic,Milotic V - Water - 210 HP,Weakness: LightningResistance: NoneRetreat: 2
+413,Mimikyu (CEC-97),http://limitlesstcg.com/cards/CEC/97/,141,Pokemon - Basic,Mimikyu - Psychic - 70 HP,Weakness: NoneResistance: NoneRetreat: 1
+414,Mimikyu (DAA-81),http://limitlesstcg.com/cards/DAA/81/,11,Pokemon - Basic,Mimikyu - Psychic - 70 HP,Weakness: DarknessResistance: FightingRetreat: 1
+415,Minccino (SSH-145),http://limitlesstcg.com/cards/SSH/145/,57,Pokemon - Basic,Minccino - Colorless - 70 HP,Weakness: FightingResistance: NoneRetreat: 1
+416,Minccino (SSH-146),http://limitlesstcg.com/cards/SSH/146/,3,Pokemon - Basic,Minccino - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+417,Moltres & Zapdos & Articuno-GX (HIF-44),http://limitlesstcg.com/cards/HIF/44/,2,Pokemon - Basic,Moltres & Zapdos & Articuno-GX - Colorless - 300 HP,Weakness: LightningResistance: FightingRetreat: 3
+418,Moomoo Cheese,http://limitlesstcg.com/cards/VIV/156/,2,Trainer - Item,Moomoo Cheese,
+419,Morpeko (FST-179),http://limitlesstcg.com/cards/FST/179/,1,Pokemon - Basic,Morpeko - Darkness - 50 HP,Weakness: GrassResistance: NoneRetreat: 1
+420,Morpeko (RCL-73),http://limitlesstcg.com/cards/RCL/73/,1,Pokemon - Basic,Morpeko - Lightning - 80 HP,Weakness: FightingResistance: NoneRetreat: 1
+421,Mr. Mime (TEU-66),http://limitlesstcg.com/cards/TEU/66/,6,Pokemon - Basic,Mr. Mime - Psychic - 80 HP,Weakness: PsychicResistance: NoneRetreat: 1
+422,Mr. Mime-GX (TEU-67),http://limitlesstcg.com/cards/TEU/67/,1,Pokemon - Basic,Mr. Mime-GX - Psychic - 150 HP,Weakness: NoneResistance: NoneRetreat: 2
+423,Muk & Alolan Muk-GX (UNB-61),http://limitlesstcg.com/cards/UNB/61/,12,Pokemon - Basic,Muk & Alolan Muk-GX - Psychic - 270 HP,Weakness: PsychicResistance: NoneRetreat: 4
+424,Munchlax (UNM-173),http://limitlesstcg.com/cards/UNM/173/,28,Pokemon - Basic,Munchlax - Colorless - 60 HP,Weakness: NoneResistance: NoneRetreat: 0
+425,Naganadel & Guzzlord-GX (CEC-158),http://limitlesstcg.com/cards/CEC/158/,3,Pokemon - Basic,Naganadel & Guzzlord-GX - Dragon - 280 HP,Weakness: FairyResistance: NoneRetreat: 3
+426,Naganadel-GX (UNM-160),http://limitlesstcg.com/cards/UNM/160/,73,Pokemon - Stage 1 - Evolves from Poipole,Naganadel-GX - Dragon - 210 HP,Weakness: FairyResistance: NoneRetreat: 1
+427,Nanu,http://limitlesstcg.com/cards/TEU/150/,1,Trainer - Supporter,Nanu,
+428,Necrozma (UNM-101),http://limitlesstcg.com/cards/UNM/101/,2,Pokemon - Basic,Necrozma - Psychic - 130 HP,Weakness: PsychicResistance: NoneRetreat: 2
+429,Necrozma V (BST-63),http://limitlesstcg.com/cards/BST/63/,6,Pokemon - Basic,Necrozma V - Psychic - 220 HP,Weakness: DarknessResistance: FightingRetreat: 3
+430,Nessa,http://limitlesstcg.com/cards/VIV/157/,3,Trainer - Supporter,Nessa,
+431,Ninetales (TEU-16),http://limitlesstcg.com/cards/TEU/16/,4,Pokemon - Stage 1 - Evolves from Vulpix,Ninetales - Fire - 100 HP,Weakness: WaterResistance: NoneRetreat: 1
+432,Ninetales V (RCL-26),http://limitlesstcg.com/cards/RCL/26/,20,Pokemon - Basic,Ninetales V - Fire - 200 HP,Weakness: WaterResistance: NoneRetreat: 2
+433,Octillery (BST-37),http://limitlesstcg.com/cards/BST/37/,112,Pokemon - Stage 1 - Evolves from Remoraid,Octillery - Water - 110 HP,Weakness: LightningResistance: NoneRetreat: 2
+434,Old Cemetery,http://limitlesstcg.com/cards/CRE/147/,69,Trainer - Stadium,Old Cemetery,
+435,Oleana,http://limitlesstcg.com/cards/RCL/163/,1,Trainer - Supporter,Oleana,
+436,Omastar (TEU-76),http://limitlesstcg.com/cards/TEU/76/,7,Pokemon - Stage 2 - Evolves from Omanyte,Omastar - Fighting - 130 HP,Weakness: GrassResistance: NoneRetreat: 2
+437,Opal,http://limitlesstcg.com/cards/VIV/158/,9,Trainer - Supporter,Opal,
+438,Oranguru (SSH-148),http://limitlesstcg.com/cards/SSH/148/,358,Pokemon - Basic,Oranguru - Colorless - 120 HP,Weakness: FightingResistance: NoneRetreat: 2
+439,Orbeetle V (VIV-20),http://limitlesstcg.com/cards/VIV/20/,18,Pokemon - Basic,Orbeetle V - Grass - 180 HP,Weakness: FireResistance: NoneRetreat: 1
+440,Orbeetle VMAX (VIV-21),http://limitlesstcg.com/cards/VIV/21/,18,Pokemon - VMAX,Orbeetle VMAX - Grass - 310 HP,Weakness: FireResistance: NoneRetreat: 1
+441,Ordinary Rod,http://limitlesstcg.com/cards/SSH/171/,800,Trainer - Item,Ordinary Rod,
+442,Oricorio (FST-42),http://limitlesstcg.com/cards/FST/42/,7,Pokemon - Basic,Oricorio - Fire - 90 HP,Weakness: WaterResistance: NoneRetreat: 1
+443,Oricorio-GX (CEC-95),http://limitlesstcg.com/cards/CEC/95/,406,Pokemon - Basic,Oricorio-GX - Psychic - 170 HP,Weakness: DarknessResistance: FightingRetreat: 1
+444,Pal Pad,http://limitlesstcg.com/cards/SSH/172/,245,Trainer - Item,Pal Pad,
+445,Passimian (CRE-88),http://limitlesstcg.com/cards/CRE/88/,169,Pokemon - Basic,Passimian - Fighting - 110 HP,Weakness: PsychicResistance: NoneRetreat: 1
+446,Path to the Peak,http://limitlesstcg.com/cards/CRE/148/,563,Trainer - Stadium,Path to the Peak,
+447,Peonia,http://limitlesstcg.com/cards/CRE/149/,8,Trainer - Supporter,Peonia,
+448,Peony,http://limitlesstcg.com/cards/CRE/150/,48,Trainer - Supporter,Peony,
+449,Persian (TEU-126),http://limitlesstcg.com/cards/TEU/126/,9,Pokemon - Stage 1 - Evolves from Meowth,Persian - Colorless - 100 HP,Weakness: FightingResistance: NoneRetreat: 1
+450,Persian (UNB-148),http://limitlesstcg.com/cards/UNB/148/,6,Pokemon - Stage 1 - Evolves from Meowth,Persian - Colorless - 100 HP,Weakness: FightingResistance: NoneRetreat: 0
+451,Persian-GX (UNB-149),http://limitlesstcg.com/cards/UNB/149/,1,Pokemon - Stage 1 - Evolves from Meowth,Persian-GX - Colorless - 200 HP,Weakness: FightingResistance: NoneRetreat: 2
+452,Phanpy (VIV-86),http://limitlesstcg.com/cards/VIV/86/,2,Pokemon - Basic,Phanpy - Fighting - 70 HP,Weakness: GrassResistance: NoneRetreat: 2
+453,Pheromosa & Buzzwole-GX (UNB-1),http://limitlesstcg.com/cards/UNB/1/,68,Pokemon - Basic,Pheromosa & Buzzwole-GX - Grass - 260 HP,Weakness: FireResistance: NoneRetreat: 2
+454,Phione (CEC-57),http://limitlesstcg.com/cards/CEC/57/,265,Pokemon - Basic,Phione - Water - 70 HP,Weakness: GrassResistance: NoneRetreat: 1
+455,Phoebe,http://limitlesstcg.com/cards/BST/130/,233,Trainer - Supporter,Phoebe,
+456,Pidgeot (TEU-124),http://limitlesstcg.com/cards/TEU/124/,6,Pokemon - Stage 2 - Evolves from Pidgeotto,Pidgeot - Colorless - 130 HP,Weakness: LightningResistance: FightingRetreat: 0
+457,Pidgeotto (TEU-123),http://limitlesstcg.com/cards/TEU/123/,9,Pokemon - Stage 1 - Evolves from Pidgey,Pidgeotto - Colorless - 60 HP,Weakness: LightningResistance: FightingRetreat: 1
+458,Pidgey (TEU-121),http://limitlesstcg.com/cards/TEU/121/,6,Pokemon - Basic,Pidgey - Colorless - 50 HP,Weakness: LightningResistance: FightingRetreat: 1
+459,Pidgey (TEU-122),http://limitlesstcg.com/cards/TEU/122/,3,Pokemon - Basic,Pidgey - Colorless - 60 HP,Weakness: LightningResistance: FightingRetreat: 1
+460,Piers,http://limitlesstcg.com/cards/CPA/58/,41,Trainer - Supporter,Piers,
+461,Pikachu & Zekrom-GX (TEU-33),http://limitlesstcg.com/cards/TEU/33/,366,Pokemon - Basic,Pikachu & Zekrom-GX - Lightning - 240 HP,Weakness: FightingResistance: MetalRetreat: 3
+462,Poké Ball,http://limitlesstcg.com/cards/CPA/59/,7,Trainer - Item,Poké Ball,
+463,Poké Maniac,http://limitlesstcg.com/cards/UNM/204/,1,Trainer - Supporter,Poké Maniac,
+464,Pokégear 3.0,http://limitlesstcg.com/cards/SSH/174/,338,Trainer - Item,Pokégear 3.0,
+465,Pokémon Catcher,http://limitlesstcg.com/cards/SSH/175/,40,Trainer - Item,Pokémon Catcher,
+466,Pokémon Center Lady,http://limitlesstcg.com/cards/CPA/60/,20,Trainer - Supporter,Pokémon Center Lady,
+467,Pokémon Communication,http://limitlesstcg.com/cards/TEU/152/,1629,Trainer - Item,Pokémon Communication,
+468,Pokémon Research Lab,http://limitlesstcg.com/cards/UNM/205/,1,Trainer - Stadium,Pokémon Research Lab,
+469,Polteageist (DAA-83),http://limitlesstcg.com/cards/DAA/83/,76,Pokemon - Stage 1 - Evolves from Sinistea,Polteageist - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+470,Porygon (CRE-116),http://limitlesstcg.com/cards/CRE/116/,1,Pokemon - Basic,Porygon - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 2
+471,Porygon (UNB-154),http://limitlesstcg.com/cards/UNB/154/,1,Pokemon - Basic,Porygon - Colorless - 50 HP,Weakness: FightingResistance: NoneRetreat: 1
+472,Porygon (UNB-155),http://limitlesstcg.com/cards/UNB/155/,1,Pokemon - Basic,Porygon - Colorless - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+473,Porygon-Z (UNB-157),http://limitlesstcg.com/cards/UNB/157/,3,Pokemon - Stage 2 - Evolves from Porygon2,Porygon-Z - Colorless - 130 HP,Weakness: FightingResistance: NoneRetreat: 2
+474,Porygon2 (CRE-117),http://limitlesstcg.com/cards/CRE/117/,1,Pokemon - Stage 1 - Evolves from Porygon,Porygon2 - Colorless - 90 HP,Weakness: FightingResistance: NoneRetreat: 2
+475,Porygon2 (UNB-156),http://limitlesstcg.com/cards/UNB/156/,1,Pokemon - Stage 1 - Evolves from Porygon,Porygon2 - Colorless - 80 HP,Weakness: FightingResistance: NoneRetreat: 2
+476,Potion,http://limitlesstcg.com/cards/CPA/61/,2,Trainer - Item,Potion,
+477,Power Plant,http://limitlesstcg.com/cards/UNB/183/,320,Trainer - Stadium,Power Plant,
+478,Power Tablet,http://limitlesstcg.com/cards/FST/236/,57,Trainer - Item,Power Tablet,
+479,Powerful Colorless Energy,http://limitlesstcg.com/cards/DAA/176/,27,Energy - Special,Powerful Colorless Energy,
+480,Primeape (BST-67),http://limitlesstcg.com/cards/BST/67/,1,Pokemon - Stage 1 - Evolves from Mankey,Primeape - Fighting - 120 HP,Weakness: PsychicResistance: NoneRetreat: 2
+481,Professor Oak's Setup,http://limitlesstcg.com/cards/CEC/201/,2,Trainer - Supporter,Professor Oak's Setup,
+482,Professor's Research,http://limitlesstcg.com/cards/CEL/23/,414,Trainer - Supporter,Professor's Research,
+483,Professor's Research,http://limitlesstcg.com/cards/CPA/62/,900,Trainer - Supporter,Professor's Research,
+484,Professor's Research,http://limitlesstcg.com/cards/SHF/60/,2079,Trainer - Supporter,Professor's Research,
+485,Psychic Energy,http://limitlesstcg.com/cards/SSH/P/,302,Energy - Basic,Psychic Energy,
+486,Pumpkaboo (EVS-76),http://limitlesstcg.com/cards/EVS/76/,24,Pokemon - Basic,Pumpkaboo - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 2
+487,Pyukumuku (FST-77),http://limitlesstcg.com/cards/FST/77/,4,Pokemon - Basic,Pyukumuku - Water - 80 HP,Weakness: LightningResistance: NoneRetreat: 1
+488,Quick Ball,http://limitlesstcg.com/cards/FST/237/,234,Trainer - Item,Quick Ball,
+489,Quick Ball,http://limitlesstcg.com/cards/SSH/179/,4027,Trainer - Item,Quick Ball,
+490,Qwilfish (CRE-101),http://limitlesstcg.com/cards/CRE/101/,1,Pokemon - Basic,Qwilfish - Darkness - 90 HP,Weakness: FightingResistance: NoneRetreat: 1
+491,Raboot (SSH-32),http://limitlesstcg.com/cards/SSH/32/,1,Pokemon - Stage 1 - Evolves from Scorbunny,Raboot - Fire - 90 HP,Weakness: WaterResistance: NoneRetreat: 1
+492,Raichu & Alolan Raichu-GX (UNM-54),http://limitlesstcg.com/cards/UNM/54/,367,Pokemon - Basic,Raichu & Alolan Raichu-GX - Lightning - 260 HP,Weakness: FightingResistance: MetalRetreat: 2
+493,Raihan,http://limitlesstcg.com/cards/EVS/152/,439,Trainer - Supporter,Raihan,
+494,Rapid Strike Energy,http://limitlesstcg.com/cards/BST/140/,359,Energy - Special,Rapid Strike Energy,
+495,Rapid Strike Urshifu (CRE-44),http://limitlesstcg.com/cards/CRE/44/,1,Pokemon - Stage 1 - Evolves from Kubfu,Rapid Strike Urshifu - Water - 140 HP,Weakness: LightningResistance: NoneRetreat: 2
+496,Rapid Strike Urshifu V (BST-87),http://limitlesstcg.com/cards/BST/87/,345,Pokemon - Basic,Rapid Strike Urshifu V - Fighting - 220 HP,Weakness: PsychicResistance: NoneRetreat: 2
+497,Rapid Strike Urshifu V (SSP-107),http://limitlesstcg.com/cards/SSP/107/,7,Pokemon - Basic,Rapid Strike Urshifu V - Fighting - 220 HP,Weakness: PsychicResistance: NoneRetreat: 2
+498,Rapid Strike Urshifu VMAX (BST-88),http://limitlesstcg.com/cards/BST/88/,345,Pokemon - VMAX,Rapid Strike Urshifu VMAX - Fighting - 330 HP,Weakness: PsychicResistance: NoneRetreat: 2
+499,Rare Candy,http://limitlesstcg.com/cards/SSH/180/,207,Trainer - Item,Rare Candy,
+500,Rayquaza V (EVS-110),http://limitlesstcg.com/cards/EVS/110/,9,Pokemon - Basic,Rayquaza V - Dragon - 210 HP,Weakness: NoneResistance: NoneRetreat: 2
+501,Rayquaza VMAX (EVS-111),http://limitlesstcg.com/cards/EVS/111/,9,Pokemon - VMAX,Rayquaza VMAX - Dragon - 320 HP,Weakness: NoneResistance: NoneRetreat: 2
+502,Recycle Energy,http://limitlesstcg.com/cards/UNM/212/,17,Energy - Special,Recycle Energy,
+503,Red & Blue,http://limitlesstcg.com/cards/CEC/202/,94,Trainer - Supporter,Red & Blue,
+504,Red's Challenge,http://limitlesstcg.com/cards/UNB/184/,1,Trainer - Supporter,Red's Challenge,
+505,Remoraid (BST-36),http://limitlesstcg.com/cards/BST/36/,112,Pokemon - Basic,Remoraid - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+506,Rescue Carrier,http://limitlesstcg.com/cards/EVS/154/,16,Trainer - Item,Rescue Carrier,
+507,Reset Stamp,http://limitlesstcg.com/cards/UNM/206/,1607,Trainer - Item,Reset Stamp,
+508,Reshiram & Charizard-GX (UNB-20),http://limitlesstcg.com/cards/UNB/20/,502,Pokemon - Basic,Reshiram & Charizard-GX - Fire - 270 HP,Weakness: WaterResistance: NoneRetreat: 3
+509,Rhyperior V (DAA-95),http://limitlesstcg.com/cards/DAA/95/,6,Pokemon - Basic,Rhyperior V - Fighting - 230 HP,Weakness: GrassResistance: NoneRetreat: 4
+510,Ribbon Badge,http://limitlesstcg.com/cards/EVS/155/,29,Trainer - Item - Tool,Ribbon Badge,
+511,Rillaboom (SHF-13),http://limitlesstcg.com/cards/SHF/13/,89,Pokemon - Stage 2 - Evolves from Thwackey,Rillaboom - Grass - 170 HP,Weakness: FireResistance: NoneRetreat: 3
+512,Rillaboom (SSH-14),http://limitlesstcg.com/cards/SSH/14/,20,Pokemon - Stage 2 - Evolves from Thwackey,Rillaboom - Grass - 170 HP,Weakness: FireResistance: NoneRetreat: 3
+513,Rockruff (CEC-123),http://limitlesstcg.com/cards/CEC/123/,2,Pokemon - Basic,Rockruff - Fighting - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+514,Rockruff (CPA-29),http://limitlesstcg.com/cards/CPA/29/,3,Pokemon - Basic,Rockruff - Fighting - 70 HP,Weakness: GrassResistance: NoneRetreat: 1
+515,Rocky Helmet,http://limitlesstcg.com/cards/VIV/159/,2,Trainer - Item - Tool,Rocky Helmet,
+516,Roller Skater,http://limitlesstcg.com/cards/CEC/203/,1,Trainer - Supporter,Roller Skater,
+517,Rosa,http://limitlesstcg.com/cards/CEC/204/,106,Trainer - Supporter,Rosa,
+518,Rose,http://limitlesstcg.com/cards/DAA/168/,8,Trainer - Supporter,Rose,
+519,Rose Tower,http://limitlesstcg.com/cards/DAA/169/,42,Trainer - Stadium,Rose Tower,
+520,Rotom (CEC-86),http://limitlesstcg.com/cards/CEC/86/,2,Pokemon - Basic,Rotom - Psychic - 70 HP,Weakness: DarknessResistance: FightingRetreat: 1
+521,Rotom (SHF-34),http://limitlesstcg.com/cards/SHF/34/,1,Pokemon - Basic,Rotom - Lightning - 80 HP,Weakness: FightingResistance: NoneRetreat: 1
+522,Rotom Phone,http://limitlesstcg.com/cards/CPA/64/,144,Trainer - Item,Rotom Phone,
+523,Rowlet & Alolan Exeggutor-GX (UNM-1),http://limitlesstcg.com/cards/UNM/1/,109,Pokemon - Basic,Rowlet & Alolan Exeggutor-GX - Grass - 270 HP,Weakness: FireResistance: NoneRetreat: 3
+524,Rowlet (CEC-17),http://limitlesstcg.com/cards/CEC/17/,8,Pokemon - Basic,Rowlet - Grass - 50 HP,Weakness: FireResistance: NoneRetreat: 1
+525,Rowlet (CEC-18),http://limitlesstcg.com/cards/CEC/18/,61,Pokemon - Basic,Rowlet - Grass - 60 HP,Weakness: FireResistance: NoneRetreat: 1
+526,Rowlet (DAA-11),http://limitlesstcg.com/cards/DAA/11/,17,Pokemon - Basic,Rowlet - Grass - 50 HP,Weakness: FireResistance: NoneRetreat: 1
+527,Rowlet (SHF-6),http://limitlesstcg.com/cards/SHF/6/,30,Pokemon - Basic,Rowlet - Grass - 50 HP,Weakness: FireResistance: NoneRetreat: 1
+528,Roxie,http://limitlesstcg.com/cards/CEC/205/,23,Trainer - Supporter,Roxie,
+529,Rubber Gloves,http://limitlesstcg.com/cards/EVS/156/,1,Trainer - Item - Tool,Rubber Gloves,
+530,Rugged Helmet,http://limitlesstcg.com/cards/CRE/152/,3,Trainer - Item - Tool,Rugged Helmet,
+531,Rusted Shield,http://limitlesstcg.com/cards/SHF/61/,5,Trainer - Item - Tool,Rusted Shield,
+532,Rusted Sword,http://limitlesstcg.com/cards/SHF/62/,140,Trainer - Item - Tool,Rusted Sword,
+533,Sableye V (SSH-120),http://limitlesstcg.com/cards/SSH/120/,73,Pokemon - Basic,Sableye V - Darkness - 170 HP,Weakness: GrassResistance: NoneRetreat: 2
+534,Sabrina & Brycen,http://limitlesstcg.com/cards/SMP/SM246/,55,Trainer - Supporter,Sabrina & Brycen,
+535,Salandit (SSH-27),http://limitlesstcg.com/cards/SSH/27/,1,Pokemon - Basic,Salandit - Fire - 70 HP,Weakness: WaterResistance: NoneRetreat: 1
+536,Salazzle (UNB-31),http://limitlesstcg.com/cards/UNB/31/,1,Pokemon - Stage 1 - Evolves from Salandit,Salazzle - Fire - 100 HP,Weakness: WaterResistance: NoneRetreat: 1
+537,Scizor V (DAA-118),http://limitlesstcg.com/cards/DAA/118/,1,Pokemon - Basic,Scizor V - Metal - 210 HP,Weakness: FireResistance: GrassRetreat: 2
+538,Scoop Up Net,http://limitlesstcg.com/cards/RCL/165/,1403,Trainer - Item,Scoop Up Net,
+539,Scorbunny (SSH-31),http://limitlesstcg.com/cards/SSH/31/,1,Pokemon - Basic,Scorbunny - Fire - 70 HP,Weakness: WaterResistance: NoneRetreat: 1
+540,Seaking (SSH-47),http://limitlesstcg.com/cards/SSH/47/,1,Pokemon - Stage 1 - Evolves from Goldeen,Seaking - Water - 110 HP,Weakness: LightningResistance: NoneRetreat: 2
+541,Shadow Rider Calyrex V (CRE-74),http://limitlesstcg.com/cards/CRE/74/,249,Pokemon - Basic,Shadow Rider Calyrex V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 2
+542,Shadow Rider Calyrex V (SSP-131),http://limitlesstcg.com/cards/SSP/131/,33,Pokemon - Basic,Shadow Rider Calyrex V - Psychic - 210 HP,Weakness: DarknessResistance: FightingRetreat: 2
+543,Shadow Rider Calyrex VMAX (CRE-75),http://limitlesstcg.com/cards/CRE/75/,247,Pokemon - VMAX,Shadow Rider Calyrex VMAX - Psychic - 320 HP,Weakness: DarknessResistance: FightingRetreat: 2
+544,Shauna,http://limitlesstcg.com/cards/FST/240/,4,Trainer - Supporter,Shauna,
+545,Shaymin Prism Star (TEU-10),http://limitlesstcg.com/cards/TEU/10/,28,Pokemon - Basic,Shaymin ♢ - Grass - 80 HP,Weakness: FireResistance: NoneRetreat: 0
+546,Shelmet (FST-13),http://limitlesstcg.com/cards/FST/13/,1,Pokemon - Basic,Shelmet - Grass - 70 HP,Weakness: FireResistance: NoneRetreat: 3
+547,Shopping Center,http://limitlesstcg.com/cards/EVS/157/,4,Trainer - Stadium,Shopping Center,
+548,Shuppet (VIV-67),http://limitlesstcg.com/cards/VIV/67/,1,Pokemon - Basic,Shuppet - Psychic - 60 HP,Weakness: DarknessResistance: FightingRetreat: 1
+549,Silvally-GX (CEC-184),http://limitlesstcg.com/cards/CEC/184/,54,Pokemon - Stage 1 - Evolves from Type: Null,Silvally-GX - Colorless - 210 HP,Weakness: FightingResistance: NoneRetreat: 2
+550,Single Strike Energy,http://limitlesstcg.com/cards/BST/141/,121,Energy - Special,Single Strike Energy,
+551,Single Strike Scroll of Scorn,http://limitlesstcg.com/cards/BST/133/,58,Trainer - Item - Tool,Single Strike Scroll of Scorn,
+552,Single Strike Style Mustard,http://limitlesstcg.com/cards/BST/134/,1,Trainer - Supporter,Single Strike Style Mustard,
+553,Single Strike Urshifu V (BST-85),http://limitlesstcg.com/cards/BST/85/,109,Pokemon - Basic,Single Strike Urshifu V - Fighting - 220 HP,Weakness: PsychicResistance: NoneRetreat: 2
+554,Single Strike Urshifu V (SSP-106),http://limitlesstcg.com/cards/SSP/106/,2,Pokemon - Basic,Single Strike Urshifu V - Fighting - 220 HP,Weakness: PsychicResistance: NoneRetreat: 2
+555,Single Strike Urshifu VMAX (BST-86),http://limitlesstcg.com/cards/BST/86/,105,Pokemon - VMAX,Single Strike Urshifu VMAX - Fighting - 330 HP,Weakness: PsychicResistance: NoneRetreat: 3
+556,Sinistea (DAA-82),http://limitlesstcg.com/cards/DAA/82/,51,Pokemon - Basic,Sinistea - Psychic - 30 HP,Weakness: DarknessResistance: FightingRetreat: 1
+557,Sinistea (SSH-89),http://limitlesstcg.com/cards/SSH/89/,33,Pokemon - Basic,Sinistea - Psychic - 30 HP,Weakness: DarknessResistance: FightingRetreat: 1
+558,Skwovet (DAA-152),http://limitlesstcg.com/cards/DAA/152/,2,Pokemon - Basic,Skwovet - Colorless - 70 HP,Weakness: FightingResistance: NoneRetreat: 1
+559,Skwovet (RCL-151),http://limitlesstcg.com/cards/RCL/151/,1,Pokemon - Basic,Skwovet - Colorless - 70 HP,Weakness: FightingResistance: NoneRetreat: 1
+560,Skyla,http://limitlesstcg.com/cards/RCL/166/,84,Trainer - Supporter,Skyla,
+561,Sneasel (CEC-43),http://limitlesstcg.com/cards/CEC/43/,32,Pokemon - Basic,Sneasel - Water - 70 HP,Weakness: MetalResistance: NoneRetreat: 1
+562,Sneasel (CRE-30),http://limitlesstcg.com/cards/CRE/30/,82,Pokemon - Basic,Sneasel - Water - 70 HP,Weakness: MetalResistance: NoneRetreat: 1
+563,Sneasel (UNM-131),http://limitlesstcg.com/cards/UNM/131/,116,Pokemon - Basic,Sneasel - Darkness - 70 HP,Weakness: FightingResistance: PsychicRetreat: 1
+564,Snom (SHF-29),http://limitlesstcg.com/cards/SHF/29/,7,Pokemon - Basic,Snom - Water - 50 HP,Weakness: MetalResistance: NoneRetreat: 2
+565,Snom (SSH-63),http://limitlesstcg.com/cards/SSH/63/,23,Pokemon - Basic,Snom - Water - 50 HP,Weakness: MetalResistance: NoneRetreat: 1
+566,Snorlax (UNB-158),http://limitlesstcg.com/cards/UNB/158/,1,Pokemon - Basic,Snorlax - Colorless - 150 HP,Weakness: FightingResistance: NoneRetreat: 4
+567,Snorlax (VIV-131),http://limitlesstcg.com/cards/VIV/131/,170,Pokemon - Basic,Snorlax - Colorless - 130 HP,Weakness: FightingResistance: NoneRetreat: 3
+568,Snorlax V (SSH-141),http://limitlesstcg.com/cards/SSH/141/,1,Pokemon - Basic,Snorlax V - Colorless - 220 HP,Weakness: FightingResistance: NoneRetreat: 4
+569,Snorlax VMAX (SSH-142),http://limitlesstcg.com/cards/SSH/142/,1,Pokemon - VMAX,Snorlax VMAX - Colorless - 340 HP,Weakness: FightingResistance: NoneRetreat: 4
+570,Snorunt (CRE-35),http://limitlesstcg.com/cards/CRE/35/,9,Pokemon - Basic,Snorunt - Water - 60 HP,Weakness: MetalResistance: NoneRetreat: 1
+571,Snorunt (UNM-37),http://limitlesstcg.com/cards/UNM/37/,2,Pokemon - Basic,Snorunt - Water - 50 HP,Weakness: MetalResistance: NoneRetreat: 1
+572,Snover (CRE-9),http://limitlesstcg.com/cards/CRE/9/,2,Pokemon - Basic,Snover - Grass - 80 HP,Weakness: FireResistance: NoneRetreat: 2
+573,Snow Leaf Badge,http://limitlesstcg.com/cards/EVS/159/,11,Trainer - Item - Tool,Snow Leaf Badge,
+574,Sobble (CRE-41),http://limitlesstcg.com/cards/CRE/41/,659,Pokemon - Basic,Sobble - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+575,Sobble (SSH-54),http://limitlesstcg.com/cards/SSH/54/,4,Pokemon - Basic,Sobble - Water - 60 HP,Weakness: LightningResistance: NoneRetreat: 1
+576,Sobble (SSH-55),http://limitlesstcg.com/cards/SSH/55/,121,Pokemon - Basic,Sobble - Water - 70 HP,Weakness: LightningResistance: NoneRetreat: 1
+577,Solgaleo & Lunala-GX (CEC-75),http://limitlesstcg.com/cards/CEC/75/,28,Pokemon - Basic,Solgaleo & Lunala-GX - Psychic - 270 HP,Weakness: PsychicResistance: NoneRetreat: 2
+578,Sonia,http://limitlesstcg.com/cards/CPA/65/,29,Trainer - Supporter,Sonia,
+579,Sordward & Shielbert,http://limitlesstcg.com/cards/BST/135/,1,Trainer - Supporter,Sordward & Shielbert,
+580,Speed Lightning Energy,http://limitlesstcg.com/cards/RCL/173/,419,Energy - Special,Speed Lightning Energy,
+581,Spikemuth,http://limitlesstcg.com/cards/DAA/170/,30,Trainer - Stadium,Spikemuth,
+582,Spiral Energy,http://limitlesstcg.com/cards/CRE/159/,33,Energy - Special,Spiral Energy,
+583,Spiritomb (CRE-103),http://limitlesstcg.com/cards/CRE/103/,2,Pokemon - Basic,Spiritomb - Darkness - 70 HP,Weakness: GrassResistance: NoneRetreat: 1
+584,Spiritomb (UNB-112),http://limitlesstcg.com/cards/UNB/112/,150,Pokemon - Basic,Spiritomb - Darkness - 60 HP,Weakness: NoneResistance: NoneRetreat: 1
+585,Starly (DAA-145),http://limitlesstcg.com/cards/DAA/145/,4,Pokemon - Basic,Starly - Colorless - 50 HP,Weakness: LightningResistance: FightingRetreat: 1
+586,Starmie-GX (HIF-14),http://limitlesstcg.com/cards/HIF/14/,1,Pokemon - Stage 1 - Evolves from Staryu,Starmie-GX - Water - 190 HP,Weakness: GrassResistance: NoneRetreat: 0
+587,Stealthy Hood,http://limitlesstcg.com/cards/UNB/186/,128,Trainer - Item - Tool,Stealthy Hood,
+588,Stone Fighting Energy,http://limitlesstcg.com/cards/VIV/164/,62,Energy - Special,Stone Fighting Energy,
+589,Stonjourner (BST-84),http://limitlesstcg.com/cards/BST/84/,3,Pokemon - Basic,Stonjourner - Fighting - 130 HP,Weakness: GrassResistance: NoneRetreat: 3
+590,Stormy Mountains,http://limitlesstcg.com/cards/EVS/161/,26,Trainer - Stadium,Stormy Mountains,
+591,Stoutland V (BST-117),http://limitlesstcg.com/cards/BST/117/,2,Pokemon - Basic,Stoutland V - Colorless - 210 HP,Weakness: FightingResistance: NoneRetreat: 3
+592,Struggle Gloves,http://limitlesstcg.com/cards/DAA/171/,4,Trainer - Item - Tool,Struggle Gloves,
+593,Suicune V (EVS-31),http://limitlesstcg.com/cards/EVS/31/,161,Pokemon - Basic,Suicune V - Water - 210 HP,Weakness: LightningResistance: NoneRetreat: 2
+594,Surfing Pikachu V (CEL-8),http://limitlesstcg.com/cards/CEL/8/,1,Pokemon - Basic,Surfing Pikachu V - Lightning - 200 HP,Weakness: FightingResistance: NoneRetreat: 1
+595,Surfing Pikachu VMAX (CEL-9),http://limitlesstcg.com/cards/CEL/9/,1,Pokemon - VMAX,Surfing Pikachu VMAX - Lightning - 310 HP,Weakness: FightingResistance: NoneRetreat: 1
+596,Surprise Box,http://limitlesstcg.com/cards/UNB/187/,8,Trainer - Item,Surprise Box,
+597,Suspicious Food Tin,http://limitlesstcg.com/cards/CPA/66/,16,Trainer - Item,Suspicious Food Tin,
+598,Swablu (CPA-48),http://limitlesstcg.com/cards/CPA/48/,42,Pokemon - Basic,Swablu - Colorless - 50 HP,Weakness: LightningResistance: FightingRetreat: 1
+599,Swanna (DAA-149),http://limitlesstcg.com/cards/DAA/149/,5,Pokemon - Stage 1 - Evolves from Ducklett,Swanna - Colorless - 110 HP,Weakness: LightningResistance: FightingRetreat: 0
+600,Switch,http://limitlesstcg.com/cards/SSH/183/,3266,Trainer - Item,Switch,
+601,Switching Cups,http://limitlesstcg.com/cards/EVS/162/,1,Trainer - Item,Switching Cups,
+602,Sylveon V (EVS-74),http://limitlesstcg.com/cards/EVS/74/,67,Pokemon - Basic,Sylveon V - Psychic - 200 HP,Weakness: MetalResistance: NoneRetreat: 1
+603,Sylveon VMAX (EVS-75),http://limitlesstcg.com/cards/EVS/75/,67,Pokemon - VMAX,Sylveon VMAX - Psychic - 310 HP,Weakness: MetalResistance: NoneRetreat: 2
+604,Tag Call,http://limitlesstcg.com/cards/CEC/206/,642,Trainer - Item,Tag Call,
+605,Tag Switch,http://limitlesstcg.com/cards/UNM/209/,152,Trainer - Item,Tag Switch,
+606,Talonflame V (VIV-29),http://limitlesstcg.com/cards/VIV/29/,25,Pokemon - Basic,Talonflame V - Fire - 190 HP,Weakness: LightningResistance: FightingRetreat: 0
+607,Tapu Fini (UNM-53),http://limitlesstcg.com/cards/UNM/53/,26,Pokemon - Basic,Tapu Fini - Water - 120 HP,Weakness: GrassResistance: NoneRetreat: 1
+608,Tapu Koko Prism Star (TEU-51),http://limitlesstcg.com/cards/TEU/51/,387,Pokemon - Basic,Tapu Koko ♢ - Lightning - 130 HP,Weakness: FightingResistance: MetalRetreat: 1
+609,Tapu Koko V (BST-50),http://limitlesstcg.com/cards/BST/50/,1,Pokemon - Basic,Tapu Koko V - Lightning - 210 HP,Weakness: FightingResistance: NoneRetreat: 1
+610,Tapu Koko V (SSH-72),http://limitlesstcg.com/cards/SSH/72/,31,Pokemon - Basic,Tapu Koko V - Lightning - 200 HP,Weakness: FightingResistance: NoneRetreat: 0
+611,Tapu Koko VMAX (BST-51),http://limitlesstcg.com/cards/BST/51/,2,Pokemon - VMAX,Tapu Koko VMAX - Lightning - 320 HP,Weakness: FightingResistance: NoneRetreat: 1
+612,Team Yell Grunt,http://limitlesstcg.com/cards/CPA/67/,201,Trainer - Supporter,Team Yell Grunt,
+613,Telescopic Sight,http://limitlesstcg.com/cards/VIV/160/,118,Trainer - Item - Tool,Telescopic Sight,
+614,Thwackey (CRE-17),http://limitlesstcg.com/cards/CRE/17/,1,Pokemon - Stage 1 - Evolves from Grookey,Thwackey - Grass - 100 HP,Weakness: FireResistance: NoneRetreat: 2
+615,Thwackey (SHF-12),http://limitlesstcg.com/cards/SHF/12/,66,Pokemon - Stage 1 - Evolves from Grookey,Thwackey - Grass - 90 HP,Weakness: FireResistance: NoneRetreat: 2
+616,Thwackey (SSH-12),http://limitlesstcg.com/cards/SSH/12/,26,Pokemon - Stage 1 - Evolves from Grookey,Thwackey - Grass - 100 HP,Weakness: FireResistance: NoneRetreat: 2
+617,Thwackey (SSH-13),http://limitlesstcg.com/cards/SSH/13/,21,Pokemon - Stage 1 - Evolves from Grookey,Thwackey - Grass - 100 HP,Weakness: FireResistance: NoneRetreat: 2
+618,Togekiss V (VIV-140),http://limitlesstcg.com/cards/VIV/140/,6,Pokemon - Basic,Togekiss V - Colorless - 200 HP,Weakness: LightningResistance: FightingRetreat: 1
+619,Togekiss VMAX (VIV-141),http://limitlesstcg.com/cards/VIV/141/,6,Pokemon - VMAX,Togekiss VMAX - Colorless - 310 HP,Weakness: LightningResistance: FightingRetreat: 0
+620,Tool Jammer,http://limitlesstcg.com/cards/BST/136/,316,Trainer - Item - Tool,Tool Jammer,
+621,Tool Scrapper,http://limitlesstcg.com/cards/RCL/168/,1095,Trainer - Item,Tool Scrapper,
+622,Tornadus V (CRE-124),http://limitlesstcg.com/cards/CRE/124/,4,Pokemon - Basic,Tornadus V - Colorless - 210 HP,Weakness: LightningResistance: FightingRetreat: 2
+623,Tornadus VMAX (CRE-125),http://limitlesstcg.com/cards/CRE/125/,4,Pokemon - VMAX,Tornadus VMAX - Colorless - 320 HP,Weakness: LightningResistance: FightingRetreat: 2
+624,Tower of Darkness,http://limitlesstcg.com/cards/BST/137/,127,Trainer - Stadium,Tower of Darkness,
+625,Tower of Waters,http://limitlesstcg.com/cards/BST/138/,240,Trainer - Stadium,Tower of Waters,
+626,Toxicroak (SSH-124),http://limitlesstcg.com/cards/SSH/124/,82,Pokemon - Stage 1 - Evolves from Croagunk,Toxicroak - Darkness - 110 HP,Weakness: FightingResistance: NoneRetreat: 1
+627,Training Court,http://limitlesstcg.com/cards/RCL/169/,145,Trainer - Stadium,Training Court,
+628,Trapinch (CEC-108),http://limitlesstcg.com/cards/CEC/108/,1,Pokemon - Basic,Trapinch - Fighting - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+629,Trapinch (DAA-89),http://limitlesstcg.com/cards/DAA/89/,3,Pokemon - Basic,Trapinch - Fighting - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+630,Trapinch (SHF-40),http://limitlesstcg.com/cards/SHF/40/,2,Pokemon - Basic,Trapinch - Fighting - 60 HP,Weakness: GrassResistance: NoneRetreat: 1
+631,Trevenant & Dusknoir-GX (SMP-SM217),http://limitlesstcg.com/cards/SMP/SM217/,110,Pokemon - Basic,Trevenant & Dusknoir-GX - Psychic - 270 HP,Weakness: DarknessResistance: FightingRetreat: 3
+632,Triple Acceleration Energy,http://limitlesstcg.com/cards/UNB/190/,91,Energy - Special,Triple Acceleration Energy,
+633,Trubbish (VIV-110),http://limitlesstcg.com/cards/VIV/110/,1,Pokemon - Basic,Trubbish - Darkness - 70 HP,Weakness: FightingResistance: NoneRetreat: 2
+634,Turbo Patch,http://limitlesstcg.com/cards/DAA/172/,15,Trainer - Item,Turbo Patch,
+635,Turffield Stadium,http://limitlesstcg.com/cards/CPA/68/,82,Trainer - Stadium,Turffield Stadium,
+636,Twin Energy,http://limitlesstcg.com/cards/RCL/174/,91,Energy - Special,Twin Energy,
+637,Type: Null (CEC-183),http://limitlesstcg.com/cards/CEC/183/,9,Pokemon - Basic,Type: Null - Colorless - 110 HP,Weakness: FightingResistance: NoneRetreat: 2
+638,Type: Null (UNM-183),http://limitlesstcg.com/cards/UNM/183/,45,Pokemon - Basic,Type: Null - Colorless - 100 HP,Weakness: FightingResistance: NoneRetreat: 1
+639,Tyranitar V (BST-97),http://limitlesstcg.com/cards/BST/97/,6,Pokemon - Basic,Tyranitar V - Darkness - 230 HP,Weakness: GrassResistance: NoneRetreat: 3
+640,Tyrogue (UNB-100),http://limitlesstcg.com/cards/UNB/100/,1,Pokemon - Basic,Tyrogue - Fighting - 60 HP,Weakness: NoneResistance: NoneRetreat: 0
+641,U-Turn Board,http://limitlesstcg.com/cards/UNM/211/,57,Trainer - Item - Tool,U-Turn Board,
+642,Ultra Forest Kartenvoy,http://limitlesstcg.com/cards/UNB/188/,1,Trainer - Supporter,Ultra Forest Kartenvoy,
+643,Umbreon & Darkrai-GX (UNM-125),http://limitlesstcg.com/cards/UNM/125/,115,Pokemon - Basic,Umbreon & Darkrai-GX - Darkness - 270 HP,Weakness: FightingResistance: PsychicRetreat: 2
+644,Umbreon V (EVS-94),http://limitlesstcg.com/cards/EVS/94/,115,Pokemon - Basic,Umbreon V - Darkness - 200 HP,Weakness: GrassResistance: NoneRetreat: 2
+645,Umbreon VMAX (EVS-95),http://limitlesstcg.com/cards/EVS/95/,115,Pokemon - VMAX,Umbreon VMAX - Darkness - 310 HP,Weakness: GrassResistance: NoneRetreat: 2
+646,Unidentified Fossil,http://limitlesstcg.com/cards/CEC/207/,8,Trainer - Item,Unidentified Fossil,
+647,Urn of Vitality,http://limitlesstcg.com/cards/BST/139/,121,Trainer - Item,Urn of Vitality,
+648,Vaporeon V (SSP-150),http://limitlesstcg.com/cards/SSP/150/,4,Pokemon - Basic,Vaporeon V - Water - 210 HP,Weakness: LightningResistance: NoneRetreat: 2
+649,Vaporeon VMAX (EVS-30),http://limitlesstcg.com/cards/EVS/30/,4,Pokemon - VMAX,Vaporeon VMAX - Water - 320 HP,Weakness: LightningResistance: NoneRetreat: 2
+650,Venusaur & Snivy-GX (CEC-1),http://limitlesstcg.com/cards/CEC/1/,3,Pokemon - Basic,Venusaur & Snivy-GX - Grass - 270 HP,Weakness: FireResistance: NoneRetreat: 3
+651,Vibrava (CEC-109),http://limitlesstcg.com/cards/CEC/109/,6,Pokemon - Stage 1 - Evolves from Trapinch,Vibrava - Fighting - 80 HP,Weakness: GrassResistance: NoneRetreat: 1
+652,Victini (UNM-26),http://limitlesstcg.com/cards/UNM/26/,4,Pokemon - Basic,Victini - Fire - 70 HP,Weakness: WaterResistance: NoneRetreat: 1
+653,Victini V (BST-21),http://limitlesstcg.com/cards/BST/21/,41,Pokemon - Basic,Victini V - Fire - 190 HP,Weakness: WaterResistance: NoneRetreat: 1
+654,Victini V (SSH-25),http://limitlesstcg.com/cards/SSH/25/,170,Pokemon - Basic,Victini V - Fire - 190 HP,Weakness: WaterResistance: NoneRetreat: 2
+655,Victini VMAX (BST-22),http://limitlesstcg.com/cards/BST/22/,137,Pokemon - VMAX,Victini VMAX - Fire - 310 HP,Weakness: WaterResistance: NoneRetreat: 2
+656,Vikavolt V (DAA-60),http://limitlesstcg.com/cards/DAA/60/,131,Pokemon - Basic,Vikavolt V - Lightning - 210 HP,Weakness: FightingResistance: NoneRetreat: 3
+657,Vileplume-GX (CEC-4),http://limitlesstcg.com/cards/CEC/4/,167,Pokemon - Stage 2 - Evolves from Gloom,Vileplume-GX - Grass - 240 HP,Weakness: FireResistance: NoneRetreat: 2
+658,Viridian Forest,http://limitlesstcg.com/cards/TEU/156/,256,Trainer - Stadium,Viridian Forest,
+659,Vitality Band,http://limitlesstcg.com/cards/SSH/185/,118,Trainer - Item - Tool,Vitality Band,
+660,Volcanion (UNB-25),http://limitlesstcg.com/cards/UNB/25/,298,Pokemon - Basic,Volcanion - Fire - 120 HP,Weakness: WaterResistance: NoneRetreat: 2
+661,Volcarona V (EVS-21),http://limitlesstcg.com/cards/EVS/21/,1,Pokemon - Basic,Volcarona V - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 2
+662,Volcarona-GX (CEC-35),http://limitlesstcg.com/cards/CEC/35/,1,Pokemon - Stage 1 - Evolves from Larvesta,Volcarona-GX - Fire - 210 HP,Weakness: WaterResistance: NoneRetreat: 3
+663,Voltorb (VIV-45),http://limitlesstcg.com/cards/VIV/45/,3,Pokemon - Basic,Voltorb - Lightning - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+664,Vulpix (SSH-22),http://limitlesstcg.com/cards/SSH/22/,4,Pokemon - Basic,Vulpix - Fire - 70 HP,Weakness: WaterResistance: NoneRetreat: 1
+665,Wash Water Energy,http://limitlesstcg.com/cards/VIV/165/,13,Energy - Special,Wash Water Energy,
+666,Water Energy,http://limitlesstcg.com/cards/SSH/W/,750,Energy - Basic,Water Energy,
+667,Weakness Guard Energy,http://limitlesstcg.com/cards/UNM/213/,277,Energy - Special,Weakness Guard Energy,
+668,Weavile-GX (UNM-132),http://limitlesstcg.com/cards/UNM/132/,170,Pokemon - Stage 1 - Evolves from Sneasel,Weavile-GX - Darkness - 200 HP,Weakness: FightingResistance: PsychicRetreat: 1
+669,Weezing (CEC-77),http://limitlesstcg.com/cards/CEC/77/,8,Pokemon - Stage 1 - Evolves from Koffing,Weezing - Psychic - 100 HP,Weakness: PsychicResistance: NoneRetreat: 2
+670,Weezing (HIF-29),http://limitlesstcg.com/cards/HIF/29/,2,Pokemon - Stage 1 - Evolves from Koffing,Weezing - Psychic - 120 HP,Weakness: PsychicResistance: NoneRetreat: 3
+671,Weezing (UNB-74),http://limitlesstcg.com/cards/UNB/74/,2,Pokemon - Stage 1 - Evolves from Koffing,Weezing - Psychic - 120 HP,Weakness: PsychicResistance: NoneRetreat: 3
+672,Welder,http://limitlesstcg.com/cards/UNB/189/,641,Trainer - Supporter,Welder,
+673,Whimsicott (VIV-76),http://limitlesstcg.com/cards/VIV/76/,6,Pokemon - Stage 1 - Evolves from Cottonee,Whimsicott - Psychic - 90 HP,Weakness: MetalResistance: NoneRetreat: 0
+674,Will,http://limitlesstcg.com/cards/CEC/208/,16,Trainer - Supporter,Will,
+675,Wimpod (UNM-50),http://limitlesstcg.com/cards/UNM/50/,3,Pokemon - Basic,Wimpod - Water - 70 HP,Weakness: GrassResistance: NoneRetreat: 1
+676,Wishiwashi (CEC-62),http://limitlesstcg.com/cards/CEC/62/,1,Pokemon - Basic,Wishiwashi - Water - 180 HP,Weakness: LightningResistance: NoneRetreat: 3
+677,Wobbuffet V (SSH-86),http://limitlesstcg.com/cards/SSH/86/,1,Pokemon - Basic,Wobbuffet V - Psychic - 220 HP,Weakness: DarknessResistance: FightingRetreat: 3
+678,Wondrous Labyrinth Prism Star,http://limitlesstcg.com/cards/TEU/158/,142,Trainer - Stadium,Wondrous Labyrinth ♢,
+679,Yamper (BST-52),http://limitlesstcg.com/cards/BST/52/,1,Pokemon - Basic,Yamper - Lightning - 60 HP,Weakness: FightingResistance: NoneRetreat: 1
+680,Yell Horn,http://limitlesstcg.com/cards/DAA/173/,17,Trainer - Item,Yell Horn,
+681,Yveltal (TEU-95),http://limitlesstcg.com/cards/TEU/95/,265,Pokemon - Basic,Yveltal - Darkness - 110 HP,Weakness: LightningResistance: FightingRetreat: 0
+682,Zacian (VIV-82),http://limitlesstcg.com/cards/VIV/82/,13,Pokemon - Basic,Zacian - Psychic - 110 HP,Weakness: MetalResistance: NoneRetreat: 2
+683,Zacian V (CEL-16),http://limitlesstcg.com/cards/CEL/16/,1,Pokemon - Basic,Zacian V - Psychic - 220 HP,Weakness: MetalResistance: NoneRetreat: 2
+684,Zacian V (SSH-138),http://limitlesstcg.com/cards/SSH/138/,952,Pokemon - Basic,Zacian V - Metal - 220 HP,Weakness: FireResistance: GrassRetreat: 2
+685,Zamazenta (SSP-34),http://limitlesstcg.com/cards/SSP/34/,1,Pokemon - Basic,Zamazenta - Metal - 130 HP,Weakness: FireResistance: GrassRetreat: 2
+686,Zamazenta V (SSH-139),http://limitlesstcg.com/cards/SSH/139/,483,Pokemon - Basic,Zamazenta V - Metal - 230 HP,Weakness: FireResistance: GrassRetreat: 2
+687,Zangoose (CEC-173),http://limitlesstcg.com/cards/CEC/173/,1,Pokemon - Basic,Zangoose - Colorless - 100 HP,Weakness: FightingResistance: NoneRetreat: 1
+688,Zarude V (VIV-22),http://limitlesstcg.com/cards/VIV/22/,16,Pokemon - Basic,Zarude V - Grass - 210 HP,Weakness: FireResistance: NoneRetreat: 1
+689,Zeraora (VIV-61),http://limitlesstcg.com/cards/VIV/61/,1,Pokemon - Basic,Zeraora - Lightning - 100 HP,Weakness: FightingResistance: NoneRetreat: 0
+690,Zeraora V (CRE-53),http://limitlesstcg.com/cards/CRE/53/,14,Pokemon - Basic,Zeraora V - Lightning - 210 HP,Weakness: FightingResistance: NoneRetreat: 2
+691,Zinnia’s Resolve,http://limitlesstcg.com/cards/EVS/164/,10,Trainer - Supporter,Zinnia’s Resolve,
+692,Zoroark (EVS-103),http://limitlesstcg.com/cards/EVS/103/,1,Pokemon - Stage 1 - Evolves from Zorua,Zoroark - Darkness - 120 HP,Weakness: GrassResistance: NoneRetreat: 2
+693,Zorua (EVS-102),http://limitlesstcg.com/cards/EVS/102/,1,Pokemon - Basic,Zorua - Darkness - 70 HP,Weakness: GrassResistance: NoneRetreat: 1

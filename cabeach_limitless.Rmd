@@ -1,0 +1,238 @@
+---
+title: "Limitless Information: How do Pokémon TCG Players Respond to Tournament Results in Their Deck Choices?"
+author: "C Sandy Beach | Fundamentals of Computing & Data Display"
+output: html_document
+---
+
+
+
+## 2020 Pokémon Championship Series Canceled
+
+##### [Github Link](https://github.com/sandybeachum/SURVMETH_727_FProject)
+
+Since 2003, there have been yearly Pokémon Trading Card Game (TCG) tournament circuits that culminate in an invitational tournament; the [World Championships](https://bulbapedia.bulbagarden.net/wiki/World_Championships). However, when COVID-19 began to close borders, the yearly circuit was [canceled](https://www.pokemon.com/us/pokemon-news/2020-pokemon-championship-series-canceled/).
+
+In response to a lack of official tournament support, [Robin Schulz](https://twitter.com/limitless_robin) co-founded a website, play.limitlesstcg.com , to allow unofficial tournaments to be run in a remote format. With the advent of this new website, there was a change to how people approached playing the Pokémon TCG. Where previously the main motivation to play was acquiring Championship Points to earn an invite to the World Championships, now players were seemingly playing the game to earn digital card packs (the currency used in the computer client to play the Pokémon TCG). 
+
+With this change in motivation occurring, and results from events including deck lists (the 60 cards used in each player's deck), players would both be playing events more often and have access to more information about what decks are performing well. This is in contrast to when official events would occur a few times a year and have deck lists released weeks after.
+
+So with the increased information available to players, can we observe the metagame change over time in response to previous tournament results? When considering this question, we'll have to a) classify decks based on the main attacker or archetype, and b) attempt to find a cross-correlation between decks that existed around the same period of time. This will limit the ability to identify when/if a new deck disrupts the metagame, so we'll look at deck archetypes that have co-existed.
+
+To start, I gathered a list of all the tournaments with 64 or more players from play.limitlesstcg.com and then found all the top 8 players from each of those tournaments and gathered their deck lists with card summary information. For the purposes of this document, we will not quite get to looking at card summary information. This process was done in python as I was originally expecting to be able to use a wordpress API, but found that the website was actually created using django and not wordpress, so I just used beautifulsoup.
+
+```{python eval=FALSE}
+from bs4 import BeautifulSoup
+from datetime import datetime
+import pandas as pd
+import requests
+import time
+import re
+```
+
+```{python eval=FALSE}
+def parse_link(x):
+    y = requests.get(x).text
+    return BeautifulSoup(y, "html.parser")
+```
+
+```{python eval=FALSE}
+all_tourneys = parse_link("https://play.limitlesstcg.com/tournaments/completed?time=all")
+for td in all_tourneys.find_all('a', {'class': 'date'}):
+    td.string = datetime.fromtimestamp(int(td.get('data-time')[0:-3])).strftime("%Y-%m-%d")
+for td in all_tourneys.find_all('img', {'class': 'format'}):
+    td.string = td.get('title')
+for td in all_tourneys.find_all('a', {'class': None}):
+    td.string = td.get('href')
+```
+
+```{python eval=FALSE}
+table = all_tourneys.find_all('table')
+
+df = pd.read_html(str(table))[0]
+
+df.rename(columns={'Unnamed: 0': 'X', 'Unnamed: 4': 'Format', 'Name': 'Standings'}, inplace=True)
+
+df2 = df[(df['Players'] > 63) & (df['Format'] == 'Standard')]
+
+df_results_sum = pd.DataFrame(columns=['Place','Name','Unnamed: 2',
+                                       'Points','Record','Opp. Win %',
+                                       'Opp. Opp. %', 'Deck', 'List', 'Tourney'])
+                                       
+for x in df2.Standings:
+    temp_html = parse_link("https://play.limitlesstcg.com"+x)
+    for td in temp_html.find_all('td', {'class': None}):
+        if td.get('title') != None:
+            td.string = td.get('title')
+        else:
+            pass
+    for td in temp_html.find_all('a', {'class': None}):
+        if td.get('href') != None:
+            td.string = td.get('href')
+        else:
+            pass
+    table = temp_html.find_all('table')
+    df3 = pd.read_html(str(table))[0]
+    df4 = df3[df3['Place'] <9]
+    df5 = df4.assign(Tourney=x)
+    df_results_sum = df_results_sum.append(df5,ignore_index=True)
+    time.sleep(0.5)
+    
+df_results_noNaN = df_results_sum.dropna(subset=['List'])
+
+df_lists_long = pd.DataFrame(columns=['Name','Tourney','Count','Card','Link'])
+
+df_card_pool = df_lists_long.groupby(['Card', 'Link']).size().reset_index(name='Freq')
+
+df_card_pool['Type'] = ""
+df_card_pool['Title'] = ""
+df_card_pool['Weakness'] = ""
+
+for x in range(0,len(df_card_pool.Link)):
+    temp_html = parse_link(df_card_pool.Link.iloc[x])
+    df_card_pool.Type.iloc[x] = temp_html.find('p', attrs={'class':'card-text-type'}).text
+    df_card_pool.Title.iloc[x] = temp_html.find('p', attrs={'class':'card-text-title'}).text
+    try:
+        df_card_pool.Weakness.iloc[x] = temp_html.find('p', attrs={'class':'card-text-wrr'}).text
+    except:
+        pass
+
+df_results_sum.to_csv("Data/Results_Top8s.csv")
+df_card_pool.to_csv("Data/Card_Pool.csv")
+df_lists_long.to_csv("Data/Lists.csv")
+df2.to_csv("Data/Tourney_list.csv")
+df9 = df_results_sum.merge(df2[['Date','Standings']],left_on='Tourney',right_on='Standings')
+df9.to_csv("Data/DeckNames_WDate.csv")
+```
+
+Now that we have the data, we'll switch over to R for the remainder.
+
+```{r message=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(sjmisc)
+```
+
+```{r}
+deck_summary = read.csv("Data/DeckNames_WDate.csv",header=TRUE)
+deck_summary$yearmon = substr(deck_summary$Date,1,7)
+deck_summary$yearAndweeks = strftime(deck_summary$Date, format = "%Y-W%V")
+deck_summary$yearAndweeks[deck_summary$yearAndweeks == "2021-W53"] = "2020-W53" 
+```
+
+As there aren't tournaments every day, and it's highly variable if a tournament will be held any given day, we'll look at a weekly summary of the frequency of each deck in the top 8's of the selected tournaments. This should hopefully give enough granularity to find patterns in deck choices of top 8 players, and also increase the number of decks seen per week.
+
+To start, let's just focus on the top 20 decks in the data we have, and see if we can collapse some similar decks into the same category.
+
+```{r}
+c((deck_summary %>% group_by(Deck) %>% summarize(N=n()) %>% arrange(desc(N)))[1:20,'Deck'])
+```
+
+To start, we'll do the following:
+Old -> New
+
+Urshifu Inteleon -> [Rapid Strike Urshifu](https://play.limitlesstcg.com/decks/urshifu-inteleon?format=standard&rotation=2022&set=FST)
+
+ADP Zacian -> [Zacian](https://play.limitlesstcg.com/decks/zacian-v?format=standard&rotation=2022&set=FST)
+
+Zacian Lucmetal -> [Zacian](https://play.limitlesstcg.com/decks/zacian-v?format=standard&rotation=2022&set=FST)
+
+Umbreon Urshifu -> [Single Strike](https://play.limitlesstcg.com/decks/ss-umbreon-urshifu?format=standard&rotation=2022&set=FST)
+
+Dragapult Inteleon -> [Dragapult](https://play.limitlesstcg.com/decks/dragapult-inteleon?format=standard&rotation=2022&set=FST)
+
+```{r}
+deck_summary$Deck[deck_summary$Deck == "Zacian Lucmetal"] = "Zacian"
+deck_summary$Deck[deck_summary$Deck == "ADP Zacian"] = "Zacian"
+deck_summary$Deck[deck_summary$Deck == "Dragapult Inteleon"] = "Dragapult"
+deck_summary$Deck[deck_summary$Deck == "Urshifu Inteleon"] = "Rapid Strike Urshifu"
+deck_summary$Deck[deck_summary$Deck == "Umbreon Urshifu"] = "Single Strike"
+
+top_14 = c((deck_summary %>% group_by(Deck) %>% summarize(N=n()) %>% arrange(desc(N)))[1:14,'Deck']); top_14
+```
+
+Now that we have a good set of decks, let's take a look visually at how they vary over time.
+
+```{r warning=FALSE}
+deck_summary %>% 
+  group_by(yearAndweeks,Deck) %>% 
+  summarize(N=n(), .groups="drop_last") %>%
+  mutate(freq = N / sum(N)) %>% 
+  filter(Deck %in% top_14$Deck) %>%
+  ggplot() + 
+  geom_point(aes(x=yearAndweeks,y=freq,group=Deck)) +
+  facet_wrap(~Deck, ncol = 2) + 
+  xlab("Week of Year (Year-W(#))") +
+  ggtitle("Relative Frequency of 'Powerful' Decks in 2020-2021") +
+  scale_x_discrete(breaks = c("2020-W50", "2021-W20", "2021-W40")) +
+  theme(axis.text.y = element_text(size = 6))
+```
+
+Looking at the tenure of the different decks shown, there are a few comparisons to look at to see if the rise of one impacts the usage of another. The main comparison I want to look at is:
+
+[Eternatus](https://play.limitlesstcg.com/decks/eternatus-vmax?format=standard&rotation=2022&set=FST)-[Dragapult](https://play.limitlesstcg.com/decks/dragapult-inteleon?format=standard&rotation=2022&set=FST)
+
+My decision to look at these comparisons is entirely due to their long tenure of being represented in top 8s of tournaments. I'll be computing cross-correlations and looking at lagged data, so I'm aiming to have decks with more weeks represented so as to have larger cross-sections of data to look at when lag adjustments are taken into account. In the future, after this report, I'll continue this work and think about other ways to analyze these data that are agnostic to the release of new cards via looking at card attributes instead.
+
+
+So here we will construct a dataset for each of these decks' tenure in the data.
+
+
+```{r}
+tourney_week = deck_summary %>% 
+                group_by(yearAndweeks) %>% 
+                summarise(N=n(), .groups="drop_last") %>% 
+                select(yearAndweeks) %>% 
+                arrange(yearAndweeks)
+tourney_week$row_num = seq.int(nrow(tourney_week))
+
+deck_freq = deck_summary %>% 
+  group_by(yearAndweeks,Deck) %>% 
+  summarize(N=n(), .groups="drop_last") %>%
+  mutate(freq = N / sum(N))
+
+deck_comparison = function(deck_1, deck_2, title) {
+   deck_a = deck_freq[which(deck_freq$Deck==deck_1),]
+   deck_a_week = merge(x=tourney_week,y=deck_a,by="yearAndweeks",all.x=TRUE)
+   deck_a_week$Deck[is.na(deck_a_week$Deck) == TRUE] = deck_1 
+   deck_a_week$N[is.na(deck_a_week$N) == TRUE] = 0
+   deck_a_week$freq[is.na(deck_a_week$freq) == TRUE] = 0 
+   
+   deck_b = deck_freq[which(deck_freq$Deck==deck_2),]
+   deck_b_week = merge(x=tourney_week,y=deck_b,by="yearAndweeks",all.x=TRUE)
+   deck_b_week$Deck[is.na(deck_b_week$Deck) == TRUE] = deck_2 
+   deck_b_week$N[is.na(deck_b_week$N) == TRUE] = 0
+   deck_b_week$freq[is.na(deck_b_week$freq) == TRUE] = 0 
+   
+   ccf(deck_a$freq,deck_b$freq, main=title)
+}
+```
+
+```{r}
+deck_comparison("Dragapult","Eternatus", "x=Dragapult, y=Eternatus")
+```
+
+We can see from the comparison of Dragapult and Eternatus deck usage that with a lag of 2 weeks there is a correlation coefficient of ~0.58 between the two decks. What this means in practice is that there is a strong correlation between the usage of Dragapult and Eternatus usage, where Dragapult usage lags Eternatus usage by about 2 weeks.
+
+This result, however, is counter-intuitive as we can generally assume that Eternatus decks beat Dragapult due to in-game mechanics of the cards. To look further into this, we should introduce a third deck (Rapid Srike Urshifu) to see if there's a mediating factor at play.
+
+```{r}
+deck_comparison("Eternatus","Rapid Strike Urshifu", "x=Eternatus, y=Rapid Strike Urshifu")
+```
+
+By introducing Rapid Strike Urshifu, we can see that while the correlation coefficient is smaller, there is a lag of 1 week where Rapid Strike Urshifu leads Eternatus usage. Again, this is counter-intuitive since we would expect Rapid Strike Urshifu to beat Eternatus based on in-game mechanics. 
+
+From what we can observe here, I have two hypotheses as to why we may be seeing this result.
+
+A) The data might not be rich enough to capture the speed at which deck choices react to each other. For example, we might be missing a middle step in these interactions that is on less of a scale than 1 week where a third deck is introduced that leads to the rise of one of the original two decks.
+
+B) The counter-intuitive interaction is due to players attempting to counter what they believe will be the next most popular deck. For example, if player A sees that Eternatus does well in a given week, they may believe that Rapid Strike Urshifu is the best choice for the next week and want to exploit that knowledge, which may lead them to play Dragapult in order to beat the players that are attempting to beat last week's best deck.
+
+***
+
+##### Limitations
+
+At this point, I'd like to acknowledge that my ambitions for this project were too large, and limited time due to work-related time constraints left this project more unpolished than I had hoped.
+
+I also only gathered the top 8 of the given tournaments in order to limit the number of page hits I was putting on the Limitless website. In this analysis I also used information about decks already generated by Limitless that would drastically cut down on page hits. 
+
+Going further I will continue work on this project for my own personal fulfillment and define decks manually based on the cards present in them, and hopefully will be able to address the issue of new cards being released regularly. As it stands, there are only 12 weeks between new releases of cards, so cross-correlations can reduce the power they have rather quickly due to the limited time frame the data is already in. Finding a better method to measure how players' deck choices change over time is vital to a more well-rounded report.
